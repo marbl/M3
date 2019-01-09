@@ -28,7 +28,7 @@ Location - /fs/m3taxworkshop/data/1-datasets/hmp/
 
 This whole metagenomic shotgun sequencing study characterized the microbial communities in halite modules in the Atacama Desert, and in particular their response to unusual rainfall in August 2015. Samples are from four time points (pre-rain in Sep 2014 and June 2015 and post rain in Feb 2016 and Feb 2017) with five replicates for each time point. <br />
 Special thanks to Gherman Uritskiy and Jocelyne DiRuggiero for providing the data! <br />
-The preprint including this data can be found at https://www.biorxiv.org/content/early/2018/10/13/442525
+The preprint including this data can be found at https://www.biorxiv.org/content/early/2018/10/13/442525 <br />
 Location - /fs/m3taxworkshop/data/1-datasets/atacama_halite_timeline/
 
 ## Machine Learning Approaches 
