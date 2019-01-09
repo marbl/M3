@@ -21,14 +21,15 @@ We will run all our exercises in an interactive job. To start an interactive job
 srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:00 bash
 ```
 
-We've also created an alias for this, so you can just type `int` and that should work too.
+We've also created an alias for this, so you can just type `int` and that should work too. As a reminder you can close your interactive job by typing `exit`.
 
-**If you are using your UMIACS account** you need to run the following to set up your environment:
+**If you are using your UMIACS account** you need to run the following to set up your environment when you first log in:
 
 ```bash
 /fs/m3taxworkshop/.interal_umiacs_people_run_this.sh
 exit
 ```
+
 This will set up your environement and log you out. Log back in and you should be good to go.
 
 ## Datasets 
