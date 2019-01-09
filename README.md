@@ -6,8 +6,11 @@ There is username and password at the back of your name tag.
 ```bash
 ssh USERNAME@openclass.umiacs.umd.edu
 ```
-Enter password. Once you are logged in, you should be able to see m3taxworkshop folder in your directory. <br />
-Now, download this github repository 
+Enter your password. Once you are logged in, you should be able to see m3taxworkshop folder in your directory.
+
+**Tip:** You might want to type your password in to a text document on your computer, so you can copy and paste it if you need to log in later.
+
+Now, download this github repository:
 
 ```bash
 git clone https://github.com/shahnidhi/m3-taxonomy-workshop.git
@@ -18,7 +21,7 @@ We will run all our exercises in an interactive job. To start an interactive job
 srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:00 bash
 ```
 
-We've also created an alias for this, so you can just type `int` and that should work to.
+We've also created an alias for this, so you can just type `int` and that should work too.
 
 **If you are using your UMIACS account** you need to run the following to set up your environment:
 
@@ -26,8 +29,7 @@ We've also created an alias for this, so you can just type `int` and that should
 /fs/m3taxworkshop/.interal_umiacs_people_run_this.sh
 exit
 ```
-
-Then log in again.
+This will set up your environement and log you out. Log back in and you should be good to go.
 
 ## Datasets 
 
@@ -90,13 +92,17 @@ python /fs/m3taxworkshop/bin/format_rdp_output_to_csv.py -t hmp_stool_rdp.txt -o
 
 
 ## Fast Metagenomic Profiling Methods
+
 ### Running Kraken
+
 ```bash
 cd ~/m3-taxonomy-workshop/run_kraken
-
 ```
+
 ## Database searching - sequence alignment based approaches
+
 ### Running BLAST
+
 ```bash
 cd ~/m3-taxonomy-workshop/run_blast/blast_toy_example
 ls
@@ -127,32 +133,43 @@ cd ~/m3-taxonomy-workshop/run_blast/hmp_example
 cp ~/m3taxworkshop/previous_run/blast/stool_blast.out.gz .
 gunzip stool_blast.out.gz 
 ```
+
 Check outlier detection pipeline options and run on stool sample dataset
 
 ```bash
 run_pipeline.py -h
 run_pipeline.py -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -b stool_blast.out -t ~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv -o stool_blast_outlier
 ```
-Check specifically these files in the output folder
+
+Check specifically these files in the output folder:
+
 1. results_outliers.txt - a tsv with reads and relevant DB sequences
 2. results_partition_map_FINAL.txt - partition number to DB sequence mapping
 3. results_read_to_partition_assignment.txt - partition assignment for reads
 4. consensus_taxonomy_based_on_outliers.txt - LCA of outliers
 
 ## Phylogenetic methods
+
 ### Running TIPP pipeline
+
 If you are still in python3 environment, run ```deactivate```
+
 Because TIPP needs python2, switch to python2 environment by running 
+
 ```bash
 source ~/m3taxworkshop/test_user_profile.sh
 source ~/m3taxworkshop/software/tipp_env/bin/activate
 ```
+
 Inputs
+
 - Set of query sequences, i.e., fragments/reads of unknown origin
 - Reference alignment and tree or taxonomy
+
 ```bash
 cd ~/m3-taxonomy-workshop/run_tipp/
 # Run on small example
 and give output of hmp sample
 ```
+
 Change the confidence to 0.50 and see the result
