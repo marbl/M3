@@ -38,5 +38,5 @@ For this part, we are going to use stool dataset and greengenes 16S rRNA gene da
 cd ~/m3-taxonomy-workshop/run_rdp
 assign_taxonomy.py -h
 
-assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i /fs/m3taxworkshop/data/1-datasets/hmp/
+assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna
 ```
