@@ -22,11 +22,13 @@ We will run all our exercises in an interactive job. To start an interactive job
 srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:00 bash
 ```
 or just type ```int```, we have created an alias.
+
 ## Datasets 
 
 ### HMP Stool Samples 
 
-We selected ten stool samples sequenced by the Human Microbiome Project using both V1V3 marker gene methods and whole metagenomic shotgun sequencing. <br />
+We selected a subset of stool samples sequenced by the Human Microbiome Project using both V1V3 marker gene methods and whole metagenomic shotgun sequencing. <br />
+
 Location - ```~/m3taxworkshop/data/1-datasets/hmp/```
 
 ### Halite (Salt Rock) from the Atacama Desert, Chile 
@@ -37,14 +39,50 @@ The preprint including this data can be found at https://www.biorxiv.org/content
 Location - ```~/m3taxworkshop/data/1-datasets/atacama_halite_timeline/```
 
 ## Machine Learning Approaches 
-### Running RDP classifier
-For this part, we are going to use stool dataset and greengenes 16S rRNA gene database. 
-```bash
-cd ~/m3-taxonomy-workshop/run_rdp
-assign_taxonomy.py -h
 
-assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna
+### Running RDP classifier
+
+For this part, we are going to use the hmp stool dataset and the RDP classifier.
+
+To run the RDP classifier, you input you representative set sequences and it outputs a text file with taxonomic assignments and confidence values for each sequence. 
+
+You can run RDP using the following command:
+
+```bash
+
+java -jar /fs/m3taxworkshop/software/RDPTools/classifier.jar classify /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -o hmp_stool_rdp.txt
+
 ```
+
+OR if you don't want to type the full command, you can use our wrapper script:
+
+```bash
+
+cd ~/m3-taxonomy-workshop/run_rdp
+
+assign_taxonomy.sh -h
+
+assign_taxonomy.sh /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -o hmp_stool_rdp.txt
+```
+
+RDP is also part of QIIME's script assign_taxonomy.py. If you have QIIME installed, the command would look like this to obtain classifications with a 80% confidence:
+
+```bash
+
+assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -c 0.8
+
+```
+
+We have also provided a python script that extracts some information about our taxonomic assignments.
+
+
+```bash
+
+python /fs/m3taxworkshop/bin/format_rdp_output_to_csv.py -t hmp_stool_rdp.txt -o hmp_stool_rdp -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna 
+
+```
+
+
 ## Fast Metagenomic Profiling Methods
 ### Running Kraken
 ```bash
@@ -60,24 +98,31 @@ makeblastdb -in database.fasta -out database.fasta -dbtype nucl
 blastn -h
 blastn -query query.fasta  -db database.fasta  -outfmt " 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qseq sseq qlen " -out blast.out -num_threads 4
 ```
-### Running outlier detection pipeline 
+
+### Running outlier detection pipeline
+
 We need python3 environment and python packages such as scipy, networkx, python-louvain. We have created a virtual environment with all these installed, you just have to source it
+
 ```bash
 export PYTHONPATH=''
 source ~/m3taxworkshop/software/outlier_env/bin/activate
 ```
+
 We are going to work on HMP stool dataset here, and use SILVA v.128 database in this example. <br />
+
 - Query sequences: ```~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna```
 - Database sequences: ```~/m3taxworkshop/databases/silva/~/m3taxworkshop/databases/silva/SILVA_132_SSURef_Nr99_tax_silva_subset.fasta```
 - Database taxonomy: ```~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv```
 
 Staging BLAST output for hmp stool dataset
+
 ```bash
 cd ~/m3-taxonomy-workshop/run_blast/hmp_example
 cp ~/m3taxworkshop/previous_run/blast/stool_blast.out.gz .
 gunzip stool_blast.out.gz 
 ```
 Check outlier detection pipeline options and run on stool sample dataset
+
 ```bash
 run_pipeline.py -h
 run_pipeline.py -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -b stool_blast.out -t ~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv -o stool_blast_outlier
