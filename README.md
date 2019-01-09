@@ -18,7 +18,7 @@ Now, download this github repository
 git clone https://github.com/shahnidhi/m3-taxonomy-workshop.git
 ```
 We will run all our exercises in an interactive job. To start an interactive job run the following command
-```
+```bash
 srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:00 bash
 ```
 or just type ```int```, we have created an alias.
@@ -53,7 +53,7 @@ cd ~/m3-taxonomy-workshop/run_kraken
 ```
 ## Database searching - sequence alignment based approaches
 ### Running BLAST
-```
+```bash
 cd ~/m3-taxonomy-workshop/run_blast/blast_toy_example
 ls
 makeblastdb -in database.fasta -out database.fasta -dbtype nucl
@@ -62,7 +62,7 @@ blastn -query query.fasta  -db database.fasta  -outfmt " 6 qseqid sseqid pident 
 ```
 ### Running outlier detection pipeline 
 We need python3 environment and python packages such as scipy, networkx, python-louvain. We have created a virtual environment with all these installed, you just have to source it
-```
+```bash
 export PYTHONPATH=''
 source ~/m3taxworkshop/software/outlier_env/bin/activate
 ```
@@ -72,13 +72,13 @@ We are going to work on HMP stool dataset here, and use SILVA v.128 database in 
 - Database taxonomy: ```~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv```
 
 Staging BLAST output for hmp stool dataset
-```
+```bash
 cd ~/m3-taxonomy-workshop/run_blast/hmp_example
 cp ~/m3taxworkshop/previous_run/blast/stool_blast.out.gz .
 gunzip stool_blast.out.gz 
 ```
 Check outlier detection pipeline options and run on stool sample dataset
-```
+```bash
 run_pipeline.py -h
 run_pipeline.py -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -b stool_blast.out -t ~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv -o stool_blast_outlier
 ```
@@ -92,14 +92,14 @@ Check specifically these files in the output folder
 ### Running TIPP pipeline
 If you are still in python3 environment, run ```deactivate```
 Because TIPP needs python2, switch to python2 environment by running 
-```
+```bash
 source ~/m3taxworkshop/test_user_profile.sh
 source ~/m3taxworkshop/software/tipp_env/bin/activate
 ```
 Inputs
 - Set of query sequences, i.e., fragments/reads of unknown origin
 - Reference alignment and tree or taxonomy
-```
+```bash
 cd ~/m3-taxonomy-workshop/run_tipp/
 # Run on small example
 and give output of hmp sample
