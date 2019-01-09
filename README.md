@@ -20,6 +20,15 @@ srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:0
 
 We've also created an alias for this, so you can just type `int` and that should work to.
 
+**If you are using your UMIACS account** you need to run the following to set up your environment:
+
+```bash
+/fs/m3taxworkshop/.interal_umiacs_people_run_this.sh
+exit
+```
+
+Then log in again.
+
 ## Datasets 
 
 ### HMP Stool Samples 
