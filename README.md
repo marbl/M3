@@ -7,21 +7,18 @@ There is username and password at the back of your name tag.
 ssh USERNAME@openclass.umiacs.umd.edu
 ```
 Enter password. Once you are logged in, you should be able to see m3taxworkshop folder in your directory. <br />
-In order to load all of the pre-installed software, please run:
-
-```bash
-# Load all software modules
-source ~/m3taxworkshop/test_user_profile.sh
-```
 Now, download this github repository 
+
 ```bash
 git clone https://github.com/shahnidhi/m3-taxonomy-workshop.git
 ```
+
 We will run all our exercises in an interactive job. To start an interactive job run the following command
 ```bash
 srun --pty --partition class --account=class --qos class --mem=8g --time=04:00:00 bash
 ```
-or just type ```int```, we have created an alias.
+
+We've also created an alias for this, so you can just type `int` and that should work to.
 
 ## Datasets 
 
