@@ -32,6 +32,13 @@ exit
 
 This will set up your environement and log you out. Log back in and you should be good to go.
 
+## Tools we will run today:
+
+Here are the tools we'll be working with today:
+
+1. [RDP](#running-rdp-classifier)
+2. [Kraken](#running-kraken)
+
 ## Datasets 
 
 ### HMP Stool Samples 
@@ -79,17 +86,13 @@ assign_taxonomy.sh /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep
 RDP is also part of QIIME's script assign_taxonomy.py. If you have QIIME installed, the command would look like this to obtain classifications with a 80% confidence:
 
 ```bash
-
 assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -c 0.8
-
 ```
 
 We have also provided a python script that extracts some information about our taxonomic assignments.
 
 ```bash
-
 python format_rdp_output_to_csv.py -t hmp_stool_rdp.txt -o hmp_stool_rdp -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna 
-
 ```
 
 
