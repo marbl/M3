@@ -36,7 +36,7 @@ This will set up your environement and log you out. Log back in and you should b
 
 ### HMP Stool Samples 
 
-We selected a subset of stool samples sequenced by the Human Microbiome Project using both V1V3 marker gene methods and whole metagenomic shotgun sequencing. <br />
+We selected a subset of 10 stool samples sequenced by the Human Microbiome Project using V1V3 marker gene methods. <br />
 
 Location - ```~/m3taxworkshop/data/1-datasets/hmp/```
 
