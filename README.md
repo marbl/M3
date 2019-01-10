@@ -86,7 +86,6 @@ assign_taxonomy.py -m rdp -o rdp_taxonomy_stool_v1v3 -i /fs/m3taxworkshop/data/1
 
 We have also provided a python script that extracts some information about our taxonomic assignments.
 
-
 ```bash
 
 python format_rdp_output_to_csv.py -t hmp_stool_rdp.txt -o hmp_stool_rdp -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna 
@@ -158,6 +157,22 @@ Check specifically these files in the output folder:
 3. results_read_to_partition_assignment.txt - partition assignment for reads
 4. consensus_taxonomy_based_on_outliers.txt - LCA of outliers
 
+Computing the number of reads classified at each taxonomic rank
+```
+python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
+    -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
+    -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt
+    -o FINAL_stool_blast_outlier
+python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
+    -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
+    -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt
+    -o FINAL_stool_blast_partition
+```
+and examining the read count for genus-level classification
+```
+cat FINAL_stool_blast_outlier_species.csv
+cat FINAL_stool_blast_partition_species.csv
+```
 ## Phylogenetic methods
 
 ### Running TIPP pipeline
