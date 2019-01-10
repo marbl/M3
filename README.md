@@ -296,10 +296,30 @@ If you don't want to run this, we have already provided output in ```out/``` fol
 
 ## Copying files from the server to your computer
 
-Here's and example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
+Here's an example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
 
 ```
 scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/ ./m3_taxa_singularity_images/
 ```
 
 Once you enter your password that will copy the files to the directory you're currently in. Note, these are quite large (~ 2.5 GB).
+
+Similarly, to download the data you generated during the workshop, run the following command:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/classhomes/USER/m3-taxonomy-workshop/ ./m3_taxa_worshop_output/
+```
+
+To download the test datasets we used in the workshop, run the following command:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/fs.m3taxworkshop/data/1-datasets/ ./m3_taxa_worshop_test_datasets/
+```
+
+Note, this is very large (~ 40 GB), mostly due to the metagenome files in the ```atacama_halite_timeline``` directory. If you just want the small sample HMP data we used at the workshop, you can run:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/fs.m3taxworkshop/data/1-datasets/hmp/ ./m3_taxa_worshop_hmp_test_datasets/
+```
+
+which is a much smaller dataset. 
