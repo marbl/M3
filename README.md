@@ -197,7 +197,7 @@ Computing the number of reads classified at each taxonomic rank
 ```
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
-    -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt
+    -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt \
     -o FINAL_stool_blast_outlier
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
