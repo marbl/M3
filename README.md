@@ -197,11 +197,11 @@ Computing the number of reads classified at each taxonomic rank
 ```
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
-    -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt
+    -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt \
     -o FINAL_stool_blast_outlier
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
-    -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt
+    -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt \
     -o FINAL_stool_blast_partition
 ```
 and examining the read count for genus-level classification
@@ -306,10 +306,30 @@ If you don't want to run this, we have already provided output in ```out/``` fol
 
 ## Copying files from the server to your computer
 
-Here's and example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
+Here's an example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
 
 ```
 scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/ ./m3_taxa_singularity_images/
 ```
 
 Once you enter your password that will copy the files to the directory you're currently in. Note, these are quite large (~ 2.5 GB).
+
+Similarly, to download the data you generated during the workshop, run the following command:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/classhomes/USER/m3-taxonomy-workshop/ ./m3_taxa_worshop_output/
+```
+
+To download the test datasets we used in the workshop, run the following command:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/data/1-datasets/ ./m3_taxa_worshop_test_datasets/
+```
+
+Note, this is very large (~ 40 GB), mostly due to the metagenome files in the ```atacama_halite_timeline``` directory. If you just want the small sample HMP data we used at the workshop, you can run:
+
+```
+scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/data/1-datasets/hmp/ ./m3_taxa_worshop_hmp_test_datasets/
+```
+
+which is a much smaller dataset. 
