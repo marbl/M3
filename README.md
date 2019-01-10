@@ -107,8 +107,10 @@ Let's search with Kraken1:
 kraken --db m3taxworkshop/databases/kraken/minikraken1_8GB/ --threads 4 m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken
 ```
 
+Next we'll create the Kraken report:
+
 ```bash
-cd ~/m3-taxonomy-workshop/run_kraken
+kraken-report --db m3taxworkshop/databases/kraken/minikraken1_8GB/ hmp.kraken > hmp.kreport
 ```
 
 ## Database searching - sequence alignment based approaches
