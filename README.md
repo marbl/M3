@@ -201,7 +201,7 @@ python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -o FINAL_stool_blast_outlier
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
     -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
-    -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt
+    -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt \
     -o FINAL_stool_blast_partition
 ```
 and examining the read count for genus-level classification
