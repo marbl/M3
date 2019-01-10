@@ -125,6 +125,12 @@ Next we'll try the updated version, Kraken2:
 kraken2 --db m3taxworkshop/databases/kraken/minikraken2_8GB/ --threads 4 --report hmp.kreport2 m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken2
 ```
 
+Let's check the output now:
+
+```bash
+head -n5 hmp.kreport2
+```
+
 ## Database searching - sequence alignment based approaches
 
 ### Running BLAST
