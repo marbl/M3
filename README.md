@@ -117,6 +117,14 @@ kraken-report --db m3taxworkshop/databases/kraken/minikraken1_8GB/ hmp.kraken > 
 head -n5 hmp.kreport
 ```
 
+#### Running Kraken2
+
+Next we'll try the updated version, Kraken2:
+
+```bash
+kraken2 --db m3taxworkshop/databases/kraken/minikraken2_8GB/ --threads 20 m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken2
+```
+
 ## Database searching - sequence alignment based approaches
 
 ### Running BLAST
