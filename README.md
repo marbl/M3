@@ -133,6 +133,10 @@ Let's check the output now:
 head -n5 hmp.kreport2
 ```
 
+#### Visulazing these results
+
+https://www.github.com/fbreitwieser/pavian/
+
 ## Database searching - sequence alignment based approaches
 
 ### Running BLAST
