@@ -299,7 +299,7 @@ If you don't want to run this, we have already provided output in ```out/``` fol
 Here's and example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
 
 ```
-scp USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/* ./
+scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/ ./m3_taxa_singularity_images/
 ```
 
-Once you enter your password that will copy the files to the directory you're currently in.
+Once you enter your password that will copy the files to the directory you're currently in. Note, these are quite large (~ 2.5 GB).
