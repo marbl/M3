@@ -38,6 +38,8 @@ Here are the tools we'll be working with today:
 
 1. [RDP](#running-rdp-classifier)
 2. [Kraken](#running-kraken)
+3. [BLAST](#running-blast)
+4. [TIPP](#running-tipp-pipeline)
 
 ## Datasets 
 
