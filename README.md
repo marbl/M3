@@ -273,6 +273,16 @@ The classification file shows the support of classifying sequences at each taxon
 ```
 grep ",species," TIPP_RDP_small_example_classification.txt
 ```
+
+**Picking up from our break!**
+
+Let's cd to wher eyou should be and copy these files:
+
+```bash
+cd ~/m3-taxonomy-workshop/run_tipp/tipp_small_example/
+cp ~/m3taxworkshop/previous_run/tipp/tipp_small_example/FINAL_TIPP_small_example* ./
+```
+
 Computing the number of reads classified at each taxonomic rank
 ```
 python ../utils/restructure_tipp_classification.py \
