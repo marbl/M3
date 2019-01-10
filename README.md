@@ -294,3 +294,12 @@ sh ../wrapper_tipp_script.sh ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_su
 ```
 If you don't want to run this, we have already provided output in ```out/``` folder. You can analyze the result files ```FINAL_stool_hmp*``` and what are the differences from the previous tools' outputs.
 
+## Copying files from the server to your computer
+
+Here's and example with the singularity containers. You'll want to open a new Terminal on your computer and enter the following:
+
+```
+scp USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/* ./
+```
+
+Once you enter your password that will copy the files to the directory you're currently in.
