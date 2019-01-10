@@ -111,6 +111,7 @@ Next we'll create the Kraken report:
 
 ```bash
 kraken-report --db m3taxworkshop/databases/kraken/minikraken1_8GB/ hmp.kraken > hmp.kreport
+head -n5 hmp.kreport
 ```
 
 ## Database searching - sequence alignment based approaches
