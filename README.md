@@ -97,6 +97,8 @@ python format_rdp_output_to_csv.py -t hmp_stool_rdp.txt -o hmp_stool_rdp -q /fs/
 
 ### Running Kraken
 
+Kraken is a k-mer-based taxonomic classification tool. Here's a study comparing the performance of Kraken with other k-mer-based (and some non-k-mer-based) taxonomic classifiers: https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-017-1299-7.
+
 ```bash
 cd ~/m3-taxonomy-workshop/run_kraken
 ```
