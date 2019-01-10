@@ -113,7 +113,7 @@ makeblastdb -in database.fasta -out database.fasta -dbtype nucl
 blastn -h
 blastn -query query.fasta  -db database.fasta  -outfmt " 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qseq sseq qlen " -out blast.out -num_threads 4
 ```
-
+Check this [site](http://www.metagenomics.wiki/tools/blast/blastn-output-format-6) to learn more about BLAST tabulated output format headers. <br /> 
 ### Running outlier detection pipeline
 
 We need python3 environment and python packages such as scipy, networkx, python-louvain. We have created a virtual environment with all these installed, you just have to source it
