@@ -312,7 +312,7 @@ Here's an example with the singularity containers. You'll want to open a new Ter
 scp -r USER@openclass.umiacs.umd.edu:/fs/m3taxworkshop/images/ ./m3_taxa_singularity_images/
 ```
 
-Once you enter your password that will copy the files to the directory you're currently in. Note, these are quite large (~ 2.5 GB).
+Once you enter your password that will copy the files to the directory you're currently in. Note, these are quite large (~ 2.5 GB). More information on running the singularity containers can be found here: https://gitlab.umiacs.umd.edu/derek/m3taxworkshop.
 
 Similarly, to download the data you generated during the workshop, run the following command:
 
