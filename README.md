@@ -220,6 +220,7 @@ Because TIPP needs python2, switch to python2 environment by running
 ```bash
 source ~/m3taxworkshop/test_user_profile.sh
 source ~/m3taxworkshop/software/tipp_env/bin/activate
+export PYTHONPATH=/fs/m3taxworkshop/software/tipp_env/lib/python2.7/site-packages/:$PYTHONPATH
 ```
 
 Inputs
