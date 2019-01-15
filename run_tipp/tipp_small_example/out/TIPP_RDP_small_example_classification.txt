@@ -1,0 +1,521 @@
+OTU_97.144,200643,Bacteroidia,class,1.0000
+OTU_97.144,131567,cellular organisms,below_root,1.0000
+OTU_97.144,239759,Alistipes,genus,1.0000
+OTU_97.144,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.144,1,root,root,1.0000
+OTU_97.144,171549,Bacteroidales,order,1.0000
+OTU_97.144,976,Bacteroidetes,phylum,1.0000
+OTU_97.144,171550,Rikenellaceae,family,1.0000
+OTU_97.144,328813,Alistipes onderdonkii,species,1.0000
+OTU_97.144,2,Bacteria,superkingdom,1.0000
+OTU_97.144,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.15565,823,Parabacteroides distasonis,species,1.0000
+OTU_97.15565,200643,Bacteroidia,class,1.0000
+OTU_97.15565,131567,cellular organisms,below_root,1.0000
+OTU_97.15565,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.15565,1,root,root,1.0000
+OTU_97.15565,171549,Bacteroidales,order,1.0000
+OTU_97.15565,976,Bacteroidetes,phylum,1.0000
+OTU_97.15565,375288,Parabacteroides,genus,1.0000
+OTU_97.15565,171551,Porphyromonadaceae,family,1.0000
+OTU_97.15565,2,Bacteria,superkingdom,1.0000
+OTU_97.15565,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.13145,200643,Bacteroidia,class,1.0000
+OTU_97.13145,131567,cellular organisms,below_root,1.0000
+OTU_97.13145,815,Bacteroidaceae,family,1.0000
+OTU_97.13145,820,Bacteroides uniformis,species,1.0000
+OTU_97.13145,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.13145,1,root,root,1.0000
+OTU_97.13145,171549,Bacteroidales,order,1.0000
+OTU_97.13145,976,Bacteroidetes,phylum,1.0000
+OTU_97.13145,816,Bacteroides,genus,1.0000
+OTU_97.13145,2,Bacteria,superkingdom,1.0000
+OTU_97.13145,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.13464,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.13464,131567,cellular organisms,below_root,1.0000
+OTU_97.13464,186803,Lachnospiraceae,family,1.0000
+OTU_97.13464,1239,Firmicutes,phylum,1.0000
+OTU_97.13464,1,root,root,1.0000
+OTU_97.13464,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.13464,186802,Clostridiales,order,1.0000
+OTU_97.13464,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.13464,2,Bacteria,superkingdom,1.0000
+OTU_97.13464,186801,Clostridia,class,1.0000
+OTU_97.18074,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.18074,131567,cellular organisms,below_root,1.0000
+OTU_97.18074,1239,Firmicutes,phylum,1.0000
+OTU_97.18074,541000,Ruminococcaceae,family,1.0000
+OTU_97.18074,1,root,root,1.0000
+OTU_97.18074,186802,Clostridiales,order,1.0000
+OTU_97.18074,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.18074,216851,Faecalibacterium,genus,1.0000
+OTU_97.18074,2,Bacteria,superkingdom,1.0000
+OTU_97.18074,186801,Clostridia,class,1.0000
+OTU_97.12535,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.12535,411460,Ruminococcus torques ATCC 27756,below_species,1.0000
+OTU_97.12535,131567,cellular organisms,below_root,1.0000
+OTU_97.12535,186803,Lachnospiraceae,family,1.0000
+OTU_97.12535,1239,Firmicutes,phylum,1.0000
+OTU_97.12535,572511,Blautia,genus,1.0000
+OTU_97.12535,1,root,root,1.0000
+OTU_97.12535,186802,Clostridiales,order,1.0000
+OTU_97.12535,33039,[Ruminococcus] torques,species,1.0000
+OTU_97.12535,2,Bacteria,superkingdom,1.0000
+OTU_97.12535,186801,Clostridia,class,1.0000
+OTU_97.11641,200643,Bacteroidia,class,1.0000
+OTU_97.11641,131567,cellular organisms,below_root,1.0000
+OTU_97.11641,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.11641,1,root,root,1.0000
+OTU_97.11641,171549,Bacteroidales,order,1.0000
+OTU_97.11641,976,Bacteroidetes,phylum,1.0000
+OTU_97.11641,375288,Parabacteroides,genus,1.0000
+OTU_97.11641,171551,Porphyromonadaceae,family,1.0000
+OTU_97.11641,46503,Parabacteroides merdae,species,1.0000
+OTU_97.11641,2,Bacteria,superkingdom,1.0000
+OTU_97.11641,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.1656,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.1656,131567,cellular organisms,below_root,1.0000
+OTU_97.1656,186803,Lachnospiraceae,family,1.0000
+OTU_97.1656,1239,Firmicutes,phylum,1.0000
+OTU_97.1656,1,root,root,1.0000
+OTU_97.1656,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.1656,186802,Clostridiales,order,1.0000
+OTU_97.1656,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.1656,2,Bacteria,superkingdom,1.0000
+OTU_97.1656,186801,Clostridia,class,1.0000
+OTU_97.1413,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.1413,131567,cellular organisms,below_root,1.0000
+OTU_97.1413,1239,Firmicutes,phylum,1.0000
+OTU_97.1413,186813,unclassified Clostridiales,below_order,1.0000
+OTU_97.1413,1,root,root,1.0000
+OTU_97.1413,186802,Clostridiales,order,1.0000
+OTU_97.1413,2,Bacteria,superkingdom,1.0000
+OTU_97.1413,186801,Clostridia,class,1.0000
+OTU_97.1779,272559,Bacteroides fragilis NCTC 9343,below_species,1.0000
+OTU_97.1779,200643,Bacteroidia,class,1.0000
+OTU_97.1779,131567,cellular organisms,below_root,1.0000
+OTU_97.1779,815,Bacteroidaceae,family,1.0000
+OTU_97.1779,817,Bacteroides fragilis,species,1.0000
+OTU_97.1779,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.1779,1,root,root,1.0000
+OTU_97.1779,171549,Bacteroidales,order,1.0000
+OTU_97.1779,976,Bacteroidetes,phylum,1.0000
+OTU_97.1779,816,Bacteroides,genus,1.0000
+OTU_97.1779,2,Bacteria,superkingdom,1.0000
+OTU_97.1779,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.181,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.181,131567,cellular organisms,below_root,1.0000
+OTU_97.181,1239,Firmicutes,phylum,1.0000
+OTU_97.181,541000,Ruminococcaceae,family,1.0000
+OTU_97.181,1,root,root,1.0000
+OTU_97.181,186802,Clostridiales,order,1.0000
+OTU_97.181,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.181,216851,Faecalibacterium,genus,1.0000
+OTU_97.181,2,Bacteria,superkingdom,1.0000
+OTU_97.181,186801,Clostridia,class,1.0000
+OTU_97.15603,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.15603,131567,cellular organisms,below_root,1.0000
+OTU_97.15603,1239,Firmicutes,phylum,1.0000
+OTU_97.15603,1505663,Erysipelatoclostridium,genus,1.0000
+OTU_97.15603,1,root,root,1.0000
+OTU_97.15603,128827,Erysipelotrichaceae,family,1.0000
+OTU_97.15603,526524,Erysipelotrichia,class,1.0000
+OTU_97.15603,526525,Erysipelotrichales,order,1.0000
+OTU_97.15603,2,Bacteria,superkingdom,1.0000
+OTU_97.16539,200643,Bacteroidia,class,1.0000
+OTU_97.16539,131567,cellular organisms,below_root,1.0000
+OTU_97.16539,815,Bacteroidaceae,family,1.0000
+OTU_97.16539,820,Bacteroides uniformis,species,1.0000
+OTU_97.16539,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.16539,1,root,root,1.0000
+OTU_97.16539,171549,Bacteroidales,order,1.0000
+OTU_97.16539,976,Bacteroidetes,phylum,1.0000
+OTU_97.16539,816,Bacteroides,genus,1.0000
+OTU_97.16539,2,Bacteria,superkingdom,1.0000
+OTU_97.16539,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.186,272559,Bacteroides fragilis NCTC 9343,below_species,1.0000
+OTU_97.186,200643,Bacteroidia,class,1.0000
+OTU_97.186,131567,cellular organisms,below_root,1.0000
+OTU_97.186,815,Bacteroidaceae,family,1.0000
+OTU_97.186,817,Bacteroides fragilis,species,1.0000
+OTU_97.186,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.186,1,root,root,1.0000
+OTU_97.186,171549,Bacteroidales,order,1.0000
+OTU_97.186,976,Bacteroidetes,phylum,1.0000
+OTU_97.186,816,Bacteroides,genus,1.0000
+OTU_97.186,2,Bacteria,superkingdom,1.0000
+OTU_97.186,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.213,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.213,131567,cellular organisms,below_root,1.0000
+OTU_97.213,186803,Lachnospiraceae,family,1.0000
+OTU_97.213,1239,Firmicutes,phylum,1.0000
+OTU_97.213,1506553,Lachnoclostridium,genus,1.0000
+OTU_97.213,1,root,root,1.0000
+OTU_97.213,186802,Clostridiales,order,1.0000
+OTU_97.213,2,Bacteria,superkingdom,1.0000
+OTU_97.213,186801,Clostridia,class,1.0000
+OTU_97.211,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.211,131567,cellular organisms,below_root,1.0000
+OTU_97.211,39485,[Eubacterium] eligens,species,1.0000
+OTU_97.211,186806,Eubacteriaceae,family,1.0000
+OTU_97.211,1239,Firmicutes,phylum,1.0000
+OTU_97.211,1,root,root,1.0000
+OTU_97.211,186802,Clostridiales,order,1.0000
+OTU_97.211,1730,Eubacterium,genus,1.0000
+OTU_97.211,2,Bacteria,superkingdom,1.0000
+OTU_97.211,186801,Clostridia,class,1.0000
+OTU_97.16265,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.16265,131567,cellular organisms,below_root,1.0000
+OTU_97.16265,1239,Firmicutes,phylum,1.0000
+OTU_97.16265,541000,Ruminococcaceae,family,1.0000
+OTU_97.16265,1,root,root,1.0000
+OTU_97.16265,186802,Clostridiales,order,1.0000
+OTU_97.16265,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.16265,216851,Faecalibacterium,genus,1.0000
+OTU_97.16265,2,Bacteria,superkingdom,1.0000
+OTU_97.16265,186801,Clostridia,class,1.0000
+OTU_97.16585,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.16585,131567,cellular organisms,below_root,1.0000
+OTU_97.16585,186803,Lachnospiraceae,family,1.0000
+OTU_97.16585,1239,Firmicutes,phylum,1.0000
+OTU_97.16585,1,root,root,1.0000
+OTU_97.16585,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.16585,186802,Clostridiales,order,1.0000
+OTU_97.16585,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.16585,2,Bacteria,superkingdom,1.0000
+OTU_97.16585,186801,Clostridia,class,1.0000
+OTU_97.20242,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.20242,131567,cellular organisms,below_root,1.0000
+OTU_97.20242,1239,Firmicutes,phylum,1.0000
+OTU_97.20242,541000,Ruminococcaceae,family,1.0000
+OTU_97.20242,1,root,root,1.0000
+OTU_97.20242,186802,Clostridiales,order,1.0000
+OTU_97.20242,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.20242,216851,Faecalibacterium,genus,1.0000
+OTU_97.20242,2,Bacteria,superkingdom,1.0000
+OTU_97.20242,186801,Clostridia,class,1.0000
+OTU_97.18689,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.18689,131567,cellular organisms,below_root,1.0000
+OTU_97.18689,186803,Lachnospiraceae,family,1.0000
+OTU_97.18689,1239,Firmicutes,phylum,1.0000
+OTU_97.18689,1,root,root,1.0000
+OTU_97.18689,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.18689,186802,Clostridiales,order,1.0000
+OTU_97.18689,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.18689,2,Bacteria,superkingdom,1.0000
+OTU_97.18689,186801,Clostridia,class,1.0000
+OTU_97.12461,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.12461,131567,cellular organisms,below_root,1.0000
+OTU_97.12461,186803,Lachnospiraceae,family,1.0000
+OTU_97.12461,1239,Firmicutes,phylum,1.0000
+OTU_97.12461,1,root,root,1.0000
+OTU_97.12461,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.12461,186802,Clostridiales,order,1.0000
+OTU_97.12461,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.12461,2,Bacteria,superkingdom,1.0000
+OTU_97.12461,186801,Clostridia,class,1.0000
+OTU_97.18082,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.18082,131567,cellular organisms,below_root,1.0000
+OTU_97.18082,186803,Lachnospiraceae,family,1.0000
+OTU_97.18082,1239,Firmicutes,phylum,1.0000
+OTU_97.18082,1,root,root,1.0000
+OTU_97.18082,186802,Clostridiales,order,1.0000
+OTU_97.18082,2,Bacteria,superkingdom,1.0000
+OTU_97.18082,186801,Clostridia,class,1.0000
+OTU_97.1096,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.1096,131567,cellular organisms,below_root,1.0000
+OTU_97.1096,186803,Lachnospiraceae,family,1.0000
+OTU_97.1096,1239,Firmicutes,phylum,1.0000
+OTU_97.1096,1,root,root,1.0000
+OTU_97.1096,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.1096,186802,Clostridiales,order,1.0000
+OTU_97.1096,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.1096,2,Bacteria,superkingdom,1.0000
+OTU_97.1096,186801,Clostridia,class,1.0000
+OTU_97.15051,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.15051,131567,cellular organisms,below_root,1.0000
+OTU_97.15051,186803,Lachnospiraceae,family,1.0000
+OTU_97.15051,1239,Firmicutes,phylum,1.0000
+OTU_97.15051,572511,Blautia,genus,1.0000
+OTU_97.15051,1,root,root,1.0000
+OTU_97.15051,186802,Clostridiales,order,1.0000
+OTU_97.15051,871665,Blautia faecis,species,1.0000
+OTU_97.15051,2,Bacteria,superkingdom,1.0000
+OTU_97.15051,186801,Clostridia,class,1.0000
+OTU_97.1486,200643,Bacteroidia,class,1.0000
+OTU_97.1486,131567,cellular organisms,below_root,1.0000
+OTU_97.1486,815,Bacteroidaceae,family,1.0000
+OTU_97.1486,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.1486,1,root,root,1.0000
+OTU_97.1486,171549,Bacteroidales,order,1.0000
+OTU_97.1486,976,Bacteroidetes,phylum,1.0000
+OTU_97.1486,816,Bacteroides,genus,1.0000
+OTU_97.1486,28116,Bacteroides ovatus,species,1.0000
+OTU_97.1486,2,Bacteria,superkingdom,1.0000
+OTU_97.1486,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.1401,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.1401,131567,cellular organisms,below_root,1.0000
+OTU_97.1401,1239,Firmicutes,phylum,1.0000
+OTU_97.1401,541000,Ruminococcaceae,family,1.0000
+OTU_97.1401,204475,Gemmiger,genus,1.0000
+OTU_97.1401,1,root,root,1.0000
+OTU_97.1401,186802,Clostridiales,order,1.0000
+OTU_97.1401,745368,Gemmiger formicilis,species,1.0000
+OTU_97.1401,2,Bacteria,superkingdom,1.0000
+OTU_97.1401,186801,Clostridia,class,1.0000
+OTU_97.14568,841,Roseburia,genus,1.0000
+OTU_97.14568,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.14568,131567,cellular organisms,below_root,1.0000
+OTU_97.14568,186803,Lachnospiraceae,family,1.0000
+OTU_97.14568,1239,Firmicutes,phylum,1.0000
+OTU_97.14568,1,root,root,1.0000
+OTU_97.14568,301301,Roseburia hominis,species,1.0000
+OTU_97.14568,186802,Clostridiales,order,1.0000
+OTU_97.14568,585394,Roseburia hominis A2-183,below_species,1.0000
+OTU_97.14568,2,Bacteria,superkingdom,1.0000
+OTU_97.14568,186801,Clostridia,class,1.0000
+OTU_97.175,841,Roseburia,genus,1.0000
+OTU_97.175,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.175,131567,cellular organisms,below_root,1.0000
+OTU_97.175,536231,Roseburia intestinalis L1-82,below_species,1.0000
+OTU_97.175,186803,Lachnospiraceae,family,1.0000
+OTU_97.175,1239,Firmicutes,phylum,1.0000
+OTU_97.175,1,root,root,1.0000
+OTU_97.175,186802,Clostridiales,order,1.0000
+OTU_97.175,166486,Roseburia intestinalis,species,1.0000
+OTU_97.175,2,Bacteria,superkingdom,1.0000
+OTU_97.175,186801,Clostridia,class,1.0000
+OTU_97.18729,200643,Bacteroidia,class,1.0000
+OTU_97.18729,131567,cellular organisms,below_root,1.0000
+OTU_97.18729,815,Bacteroidaceae,family,1.0000
+OTU_97.18729,820,Bacteroides uniformis,species,1.0000
+OTU_97.18729,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.18729,1,root,root,1.0000
+OTU_97.18729,171549,Bacteroidales,order,1.0000
+OTU_97.18729,976,Bacteroidetes,phylum,1.0000
+OTU_97.18729,816,Bacteroides,genus,1.0000
+OTU_97.18729,2,Bacteria,superkingdom,1.0000
+OTU_97.18729,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.20576,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.20576,131567,cellular organisms,below_root,1.0000
+OTU_97.20576,1239,Firmicutes,phylum,1.0000
+OTU_97.20576,541000,Ruminococcaceae,family,1.0000
+OTU_97.20576,1,root,root,1.0000
+OTU_97.20576,186802,Clostridiales,order,1.0000
+OTU_97.20576,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.20576,216851,Faecalibacterium,genus,1.0000
+OTU_97.20576,2,Bacteria,superkingdom,1.0000
+OTU_97.20576,186801,Clostridia,class,1.0000
+OTU_97.16034,200643,Bacteroidia,class,1.0000
+OTU_97.16034,131567,cellular organisms,below_root,1.0000
+OTU_97.16034,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.16034,1,root,root,1.0000
+OTU_97.16034,171549,Bacteroidales,order,1.0000
+OTU_97.16034,976,Bacteroidetes,phylum,1.0000
+OTU_97.16034,375288,Parabacteroides,genus,1.0000
+OTU_97.16034,171551,Porphyromonadaceae,family,1.0000
+OTU_97.16034,46503,Parabacteroides merdae,species,1.0000
+OTU_97.16034,2,Bacteria,superkingdom,1.0000
+OTU_97.16034,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.204,200643,Bacteroidia,class,1.0000
+OTU_97.204,131567,cellular organisms,below_root,1.0000
+OTU_97.204,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.204,1,root,root,1.0000
+OTU_97.204,1853231,Odoribacteraceae,family,1.0000
+OTU_97.204,171549,Bacteroidales,order,1.0000
+OTU_97.204,976,Bacteroidetes,phylum,1.0000
+OTU_97.204,283168,Odoribacter,genus,1.0000
+OTU_97.204,28118,Odoribacter splanchnicus,species,1.0000
+OTU_97.204,2,Bacteria,superkingdom,1.0000
+OTU_97.204,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.14,200643,Bacteroidia,class,1.0000
+OTU_97.14,131567,cellular organisms,below_root,1.0000
+OTU_97.14,821,Bacteroides vulgatus,species,1.0000
+OTU_97.14,815,Bacteroidaceae,family,1.0000
+OTU_97.14,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.14,1,root,root,1.0000
+OTU_97.14,435590,Bacteroides vulgatus ATCC 8482,below_species,1.0000
+OTU_97.14,171549,Bacteroidales,order,1.0000
+OTU_97.14,976,Bacteroidetes,phylum,1.0000
+OTU_97.14,816,Bacteroides,genus,1.0000
+OTU_97.14,2,Bacteria,superkingdom,1.0000
+OTU_97.14,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.12279,200643,Bacteroidia,class,1.0000
+OTU_97.12279,131567,cellular organisms,below_root,1.0000
+OTU_97.12279,815,Bacteroidaceae,family,1.0000
+OTU_97.12279,820,Bacteroides uniformis,species,1.0000
+OTU_97.12279,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.12279,1,root,root,1.0000
+OTU_97.12279,171549,Bacteroidales,order,1.0000
+OTU_97.12279,976,Bacteroidetes,phylum,1.0000
+OTU_97.12279,816,Bacteroides,genus,1.0000
+OTU_97.12279,2,Bacteria,superkingdom,1.0000
+OTU_97.12279,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.14259,200643,Bacteroidia,class,1.0000
+OTU_97.14259,131567,cellular organisms,below_root,1.0000
+OTU_97.14259,815,Bacteroidaceae,family,1.0000
+OTU_97.14259,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.14259,1,root,root,1.0000
+OTU_97.14259,171549,Bacteroidales,order,1.0000
+OTU_97.14259,976,Bacteroidetes,phylum,1.0000
+OTU_97.14259,816,Bacteroides,genus,1.0000
+OTU_97.14259,28116,Bacteroides ovatus,species,1.0000
+OTU_97.14259,2,Bacteria,superkingdom,1.0000
+OTU_97.14259,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.13004,200643,Bacteroidia,class,1.0000
+OTU_97.13004,131567,cellular organisms,below_root,1.0000
+OTU_97.13004,815,Bacteroidaceae,family,1.0000
+OTU_97.13004,820,Bacteroides uniformis,species,1.0000
+OTU_97.13004,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.13004,1,root,root,1.0000
+OTU_97.13004,171549,Bacteroidales,order,1.0000
+OTU_97.13004,976,Bacteroidetes,phylum,1.0000
+OTU_97.13004,816,Bacteroides,genus,1.0000
+OTU_97.13004,2,Bacteria,superkingdom,1.0000
+OTU_97.13004,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.1677,200643,Bacteroidia,class,1.0000
+OTU_97.1677,131567,cellular organisms,below_root,1.0000
+OTU_97.1677,815,Bacteroidaceae,family,1.0000
+OTU_97.1677,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.1677,816,Bacteroides,genus,1.0000
+OTU_97.1677,1,root,root,1.0000
+OTU_97.1677,171549,Bacteroidales,order,1.0000
+OTU_97.1677,976,Bacteroidetes,phylum,1.0000
+OTU_97.1677,28116,Bacteroides ovatus,species,.9641
+OTU_97.1677,2,Bacteria,superkingdom,1.0000
+OTU_97.1677,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.10619,200643,Bacteroidia,class,1.0000
+OTU_97.10619,131567,cellular organisms,below_root,1.0000
+OTU_97.10619,239759,Alistipes,genus,1.0000
+OTU_97.10619,28117,Alistipes putredinis,species,1.0000
+OTU_97.10619,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.10619,1,root,root,1.0000
+OTU_97.10619,171549,Bacteroidales,order,1.0000
+OTU_97.10619,976,Bacteroidetes,phylum,1.0000
+OTU_97.10619,171550,Rikenellaceae,family,1.0000
+OTU_97.10619,2,Bacteria,superkingdom,1.0000
+OTU_97.10619,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.16633,841,Roseburia,genus,1.0000
+OTU_97.16633,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.16633,131567,cellular organisms,below_root,1.0000
+OTU_97.16633,536231,Roseburia intestinalis L1-82,below_species,1.0000
+OTU_97.16633,186803,Lachnospiraceae,family,1.0000
+OTU_97.16633,1239,Firmicutes,phylum,1.0000
+OTU_97.16633,1,root,root,1.0000
+OTU_97.16633,186802,Clostridiales,order,1.0000
+OTU_97.16633,166486,Roseburia intestinalis,species,1.0000
+OTU_97.16633,2,Bacteria,superkingdom,1.0000
+OTU_97.16633,186801,Clostridia,class,1.0000
+OTU_97.17128,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.17128,131567,cellular organisms,below_root,1.0000
+OTU_97.17128,186802,Clostridiales,order,1.0000
+OTU_97.17128,186801,Clostridia,class,1.0000
+OTU_97.17128,1239,Firmicutes,phylum,1.0000
+OTU_97.17128,1,root,root,1.0000
+OTU_97.17128,2,Bacteria,superkingdom,1.0000
+OTU_97.121,200643,Bacteroidia,class,1.0000
+OTU_97.121,131567,cellular organisms,below_root,1.0000
+OTU_97.121,815,Bacteroidaceae,family,1.0000
+OTU_97.121,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.121,1,root,root,1.0000
+OTU_97.121,818,Bacteroides thetaiotaomicron,species,1.0000
+OTU_97.121,226186,Bacteroides thetaiotaomicron VPI-5482,below_species,1.0000
+OTU_97.121,171549,Bacteroidales,order,1.0000
+OTU_97.121,976,Bacteroidetes,phylum,1.0000
+OTU_97.121,816,Bacteroides,genus,1.0000
+OTU_97.121,2,Bacteria,superkingdom,1.0000
+OTU_97.121,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.15869,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.15869,131567,cellular organisms,below_root,1.0000
+OTU_97.15869,186803,Lachnospiraceae,family,1.0000
+OTU_97.15869,1239,Firmicutes,phylum,1.0000
+OTU_97.15869,1,root,root,1.0000
+OTU_97.15869,186928,unclassified Lachnospiraceae,below_family,1.0000
+OTU_97.15869,186802,Clostridiales,order,1.0000
+OTU_97.15869,39491,[Eubacterium] rectale,species,1.0000
+OTU_97.15869,2,Bacteria,superkingdom,1.0000
+OTU_97.15869,186801,Clostridia,class,1.0000
+OTU_97.158,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.158,131567,cellular organisms,below_root,1.0000
+OTU_97.158,186803,Lachnospiraceae,family,1.0000
+OTU_97.158,1239,Firmicutes,phylum,1.0000
+OTU_97.158,1506553,Lachnoclostridium,genus,1.0000
+OTU_97.158,1,root,root,1.0000
+OTU_97.158,186802,Clostridiales,order,1.0000
+OTU_97.158,1526,[Clostridium] aminophilum,species,1.0000
+OTU_97.158,2,Bacteria,superkingdom,1.0000
+OTU_97.158,186801,Clostridia,class,1.0000
+OTU_97.118,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.118,909932,Negativicutes,class,1.0000
+OTU_97.118,131567,cellular organisms,below_root,1.0000
+OTU_97.118,33025,Phascolarctobacterium faecium,species,1.0000
+OTU_97.118,1239,Firmicutes,phylum,1.0000
+OTU_97.118,909930,Acidaminococcaceae,family,1.0000
+OTU_97.118,33024,Phascolarctobacterium,genus,1.0000
+OTU_97.118,1,root,root,1.0000
+OTU_97.118,1843488,Acidaminococcales,order,1.0000
+OTU_97.118,2,Bacteria,superkingdom,1.0000
+OTU_97.15190,200643,Bacteroidia,class,1.0000
+OTU_97.15190,131567,cellular organisms,below_root,1.0000
+OTU_97.15190,239759,Alistipes,genus,1.0000
+OTU_97.15190,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.15190,1,root,root,1.0000
+OTU_97.15190,171549,Bacteroidales,order,1.0000
+OTU_97.15190,976,Bacteroidetes,phylum,1.0000
+OTU_97.15190,171550,Rikenellaceae,family,1.0000
+OTU_97.15190,328813,Alistipes onderdonkii,species,1.0000
+OTU_97.15190,2,Bacteria,superkingdom,1.0000
+OTU_97.15190,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.15271,200643,Bacteroidia,class,1.0000
+OTU_97.15271,131567,cellular organisms,below_root,1.0000
+OTU_97.15271,239759,Alistipes,genus,1.0000
+OTU_97.15271,28117,Alistipes putredinis,species,1.0000
+OTU_97.15271,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.15271,1,root,root,1.0000
+OTU_97.15271,171549,Bacteroidales,order,1.0000
+OTU_97.15271,976,Bacteroidetes,phylum,1.0000
+OTU_97.15271,171550,Rikenellaceae,family,1.0000
+OTU_97.15271,2,Bacteria,superkingdom,1.0000
+OTU_97.15271,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.10029,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.10029,131567,cellular organisms,below_root,1.0000
+OTU_97.10029,1239,Firmicutes,phylum,1.0000
+OTU_97.10029,541000,Ruminococcaceae,family,1.0000
+OTU_97.10029,1,root,root,1.0000
+OTU_97.10029,186802,Clostridiales,order,1.0000
+OTU_97.10029,853,Faecalibacterium prausnitzii,species,1.0000
+OTU_97.10029,216851,Faecalibacterium,genus,1.0000
+OTU_97.10029,2,Bacteria,superkingdom,1.0000
+OTU_97.10029,186801,Clostridia,class,1.0000
+OTU_97.1789,841,Roseburia,genus,1.0000
+OTU_97.1789,1783272,Terrabacteria group,below_superkingdom,1.0000
+OTU_97.1789,131567,cellular organisms,below_root,1.0000
+OTU_97.1789,186803,Lachnospiraceae,family,1.0000
+OTU_97.1789,1239,Firmicutes,phylum,1.0000
+OTU_97.1789,1,root,root,1.0000
+OTU_97.1789,186802,Clostridiales,order,1.0000
+OTU_97.1789,2,Bacteria,superkingdom,1.0000
+OTU_97.1789,186801,Clostridia,class,1.0000
+OTU_97.154,200643,Bacteroidia,class,1.0000
+OTU_97.154,131567,cellular organisms,below_root,1.0000
+OTU_97.154,328814,Alistipes shahii,species,1.0000
+OTU_97.154,239759,Alistipes,genus,1.0000
+OTU_97.154,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.154,1,root,root,1.0000
+OTU_97.154,171549,Bacteroidales,order,1.0000
+OTU_97.154,976,Bacteroidetes,phylum,1.0000
+OTU_97.154,171550,Rikenellaceae,family,1.0000
+OTU_97.154,717959,Alistipes shahii WAL 8301,below_species,1.0000
+OTU_97.154,2,Bacteria,superkingdom,1.0000
+OTU_97.154,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
+OTU_97.13936,200643,Bacteroidia,class,1.0000
+OTU_97.13936,131567,cellular organisms,below_root,1.0000
+OTU_97.13936,1783270,FCB group,below_superkingdom,1.0000
+OTU_97.13936,1,root,root,1.0000
+OTU_97.13936,171549,Bacteroidales,order,1.0000
+OTU_97.13936,976,Bacteroidetes,phylum,1.0000
+OTU_97.13936,375288,Parabacteroides,genus,1.0000
+OTU_97.13936,171551,Porphyromonadaceae,family,1.0000
+OTU_97.13936,46503,Parabacteroides merdae,species,1.0000
+OTU_97.13936,2,Bacteria,superkingdom,1.0000
+OTU_97.13936,68336,Bacteroidetes/Chlorobi group,below_below_superkingdom,1.0000
