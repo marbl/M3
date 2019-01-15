@@ -109,13 +109,14 @@ For the exercise, make sure you're interactively logged in and then change to yo
 Let's search with Kraken1:
 
 ```bash
-kraken --db m3taxworkshop/databases/kraken/minikraken1_8GB/ --threads 4 m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken
+cd ~/m3-taxonomy-workshop/run_kraken
+kraken --db /fs/m3taxworkshop/databases/kraken/minikraken1_8GB/ --threads 4 /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken
 ```
 
 Next we'll create the Kraken report:
 
 ```bash
-kraken-report --db m3taxworkshop/databases/kraken/minikraken1_8GB/ hmp.kraken > hmp.kreport
+kraken-report --db /fs/m3taxworkshop/databases/kraken/minikraken1_8GB/ hmp.kraken > hmp.kreport
 head -n5 hmp.kreport
 ```
 
@@ -124,7 +125,7 @@ head -n5 hmp.kreport
 Next we'll try the updated version, Kraken2:
 
 ```bash
-kraken2 --db m3taxworkshop/databases/kraken/minikraken2_8GB/ --threads 4 --report hmp.kreport2 m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken2
+kraken2 --db /fs/m3taxworkshop/databases/kraken/minikraken2_8GB/ --threads 4 --report hmp.kreport2 /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna > hmp.kraken2
 ```
 
 Let's check the output now:
