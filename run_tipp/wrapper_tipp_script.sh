@@ -3,7 +3,7 @@
 # source /fs/cbcb-lab/mpop/m3_taxonomy_workshop/test_user_profile.sh
 
 TIPP="/fs/m3taxworkshop/bin/run_tipp.py"
-REFPKG="/fs/m3taxworkshop/software/tipp/refpkg/RDP_2016_Clostridia.refpkg"
+REFPKG="/fs/m3taxworkshop/software/tipp/refpkg/RDP_2016_Bacteria.refpkg/"
 UTILS_DIR="/fs/m3taxworkshop/software/tipp_utils/utils/"
 
 A=100
