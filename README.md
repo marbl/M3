@@ -161,9 +161,9 @@ source ~/m3taxworkshop/software/outlier_env/bin/activate
 
 We are going to work on HMP stool dataset here, and use SILVA v.128 database in this example. <br />
 
-- Query sequences: ```~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna```
-- Database sequences: ```~/m3taxworkshop/databases/silva/~/m3taxworkshop/databases/silva/SILVA_132_SSURef_Nr99_tax_silva_subset.fasta```
-- Database taxonomy: ```~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv```
+- Query sequences: ```/fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna```
+- Database sequences: ```/fs/m3taxworkshop/databases/silva/SILVA_132_SSURef_Nr99_tax_silva_subset.fasta```
+- Database taxonomy: ```/fs/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv```
 
 Staging BLAST output for hmp stool dataset
 
@@ -176,7 +176,7 @@ cp ~/m3taxworkshop/previous_run/blast/stool_blast.out.gz .
 gunzip stool_blast.out.gz 
 ```
 ```bash
-blastn -query ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna -db ~/m3taxworkshop/databases/silva/~/m3taxworkshop/databases/silva/SILVA_132_SSURef_Nr99_tax_silva_subset.fasta -outfmt " 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qseq sseq qlen " -out stool_blast.out -num_threads 4
+blastn -query /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -db /fs/m3taxworkshop/databases/silva/SILVA_132_SSURef_Nr99_tax_silva_subset.fasta -outfmt " 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qseq sseq qlen " -out stool_blast.out -num_threads 4
 ```
 
 
@@ -184,7 +184,7 @@ Check outlier detection pipeline options and run on stool sample dataset
 
 ```bash
 run_pipeline.py -h
-run_pipeline.py -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna -b stool_blast.out -t ~/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv -o stool_blast_outlier
+run_pipeline.py -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna -b stool_blast.out -t /fs/m3taxworkshop/databases/silva/silva_nr_99_subset_taxonomy.tsv -o stool_blast_outlier
 ```
 
 Check specifically these files in the output folder:
@@ -197,11 +197,11 @@ Check specifically these files in the output folder:
 Computing the number of reads classified at each taxonomic rank
 ```
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
-    -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
+    -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna \
     -t stool_blast_outlier/consensus_taxonomy_based_on_outliers.txt \
     -o FINAL_stool_blast_outlier
 python ~/m3-taxonomy-workshop/utils/format_output_to_csv.py \
-    -q ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna \
+    -q /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna \
     -t stool_blast_outlier/consensus_taxonomy_based_on_partition.txt \
     -o FINAL_stool_blast_partition
 ```
