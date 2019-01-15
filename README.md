@@ -156,7 +156,7 @@ We need python3 environment and python packages such as scipy, networkx, python-
 
 ```bash
 export PYTHONPATH=''
-source ~/m3taxworkshop/software/outlier_env/bin/activate
+source /fs/m3taxworkshop/software/outlier_env/bin/activate
 ```
 
 We are going to work on HMP stool dataset here, and use SILVA v.128 database in this example. <br />
@@ -219,8 +219,8 @@ If you are still in python3 environment, run ```deactivate```
 Because TIPP needs python2, switch to python2 environment by running 
 
 ```bash
-source ~/m3taxworkshop/test_user_profile.sh
-source ~/m3taxworkshop/software/tipp_env/bin/activate
+source /fs/m3taxworkshop/test_user_profile.sh
+source /fs/m3taxworkshop/software/tipp_env/bin/activate
 export PYTHONPATH=/fs/m3taxworkshop/software/tipp_env/lib/python2.7/site-packages/:$PYTHONPATH
 ```
 
