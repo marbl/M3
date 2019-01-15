@@ -277,14 +277,15 @@ grep ",species," TIPP_RDP_small_example_classification.txt
 ```
 
 **Picking up from our break!**
-
-Let's cd to wher eyou should be and copy these files:
+---
+(If your run didn't finish and still want to look at the output, you can copy the output files already generated before.
+So, let's cd to where you should be and copy these files:
 
 ```bash
 cd ~/m3-taxonomy-workshop/run_tipp/tipp_small_example/
-cp ~/m3taxworkshop/previous_run/tipp/tipp_small_example/FINAL_TIPP_small_example* ./
+cp /fs/m3taxworkshop/previous_run/tipp/tipp_small_example/TIPP_RDP_small_example* .
 ```
-
+---
 Computing the number of reads classified at each taxonomic rank
 ```
 python ../utils/restructure_tipp_classification.py \
@@ -302,7 +303,7 @@ What do read counts look like at the genus and family level?
 #### Run TIPP on HMP stool sample
 ```bash 
 cd ~/m3-taxonomy-workshop/run_tipp/hmp_example
-sh ../wrapper_tipp_script.sh ~/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_10_filtered.fna FINAL_stool_hmp
+sh ../wrapper_tipp_script.sh /fs/m3taxworkshop/data/1-datasets/hmp/stool_sample_subset_rep_set_filtered_final.fna FINAL_stool_hmp
 ```
 If you don't want to run this, we have already provided output in ```out/``` folder. You can analyze the result files ```FINAL_stool_hmp*``` and what are the differences from the previous tools' outputs.
 
