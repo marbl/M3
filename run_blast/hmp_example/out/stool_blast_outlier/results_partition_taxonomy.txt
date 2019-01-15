@@ -1,0 +1,1310 @@
+0	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella
+1	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+2	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+3	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5
+4	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+5	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+6	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] gnavus group
+7	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia
+8	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Fusicatenibacter
+9	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+10	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus
+11	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus
+12	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus crispatus
+13	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Clostridium] innocuum group
+14	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+15	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+16	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+17	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+18	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+19	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+20	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella
+21	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 1
+22	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+23	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides eggerthii
+24	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+25	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+26	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+27	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 9
+28	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides
+29	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides
+30	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides plebeius
+31	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+32	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides coprocola
+33	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus
+34	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+35	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+36	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides
+37	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter
+38	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Paraprevotella;Paraprevotella clara
+39	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;Parasutterella excrementihominis
+40	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella intestinihominis
+41	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas
+42	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas
+43	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes indistinctus
+44	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;Odoribacter laneus
+45	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium
+46	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae
+47	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides nordii
+48	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salyersiae
+49	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1
+50	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae
+51	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella
+52	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella
+53	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;Odoribacter splanchnicus
+54	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella bivia
+55	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+56	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+57	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+58	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+59	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;Erysipelatoclostridium ramosum
+60	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia
+61	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister
+62	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae
+63	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter
+64	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium
+65	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1
+66	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1
+67	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6
+68	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes
+69	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus
+70	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus
+71	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Butyrivibrio;Butyrivibrio crossotus
+72	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemanella
+73	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Oxalobacter;Oxalobacter formigenes
+74	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium
+75	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus iners
+76	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella
+77	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium
+78	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter
+79	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae
+80	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Flavonifractor
+81	Bacteria;Epsilonbacteraeota;Campylobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter hominis
+82	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio
+83	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio
+84	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera
+85	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera
+86	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus intestini
+87	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus
+88	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Agathobacter;Eubacterium ramulus
+89	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus
+90	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;[Clostridium] leptum
+91	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+92	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium
+93	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae
+94	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum
+95	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+96	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella
+97	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella
+98	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Bilophila;Bilophila wadsworthia
+99	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1
+100	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella
+101	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia
+102	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+103	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+104	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 2;Coprococcus eutactus
+105	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Dielma
+106	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus
+107	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemania
+108	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae
+109	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Coprobacter
+110	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2
+111	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter
+112	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;Bittarella massiliensis
+113	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes
+114	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Negativibacillus;Negativibacillus massiliensis
+115	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus bicirculans
+116	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5
+117	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;Phascolarctobacterium faecium
+118	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fournierella;Fournierella massiliensis
+119	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fournierella;Fournierella massiliensis
+120	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;bacterium ic1393
+121	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Burkholderia sp.
+122	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;Burkholderiales bacterium
+123	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+124	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+125	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+126	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+127	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+128	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+129	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+130	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+131	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+132	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+133	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+134	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+135	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+136	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+137	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+138	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+139	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+140	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+141	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+142	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus albus
+143	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium FB2012
+144	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+145	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Phocea;Phocea massiliensis
+146	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+147	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Faecalibacterium prausnitzii
+148	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes sp.
+149	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fournierella;bacterium ic1340
+150	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus sp.
+151	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Colidextribacter massiliensis
+152	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Clostridium sp.
+153	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] leptum
+154	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] leptum
+155	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Clostridium sp.
+156	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;human gut
+157	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Oscillibacter ruminantium
+158	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] leptum
+159	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] leptum
+160	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Clostridiales bacterium
+161	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+162	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+163	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+164	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+165	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+166	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Oscillibacter sp.
+167	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+168	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+169	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Clostridium sp.
+170	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Caproiciproducens galactitolivorans
+171	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Ruminococcaceae bacterium
+172	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Clostridium merdae
+173	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Clostridium sp.
+174	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Clostridium merdae
+175	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Clostridium sp.
+176	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Ruminococcaceae bacterium
+177	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;Ruminococcaceae bacterium
+178	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;Eubacteriaceae bacterium
+179	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;Clostridium sp.
+180	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+181	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+182	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+183	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+184	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+185	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+186	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+187	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Clostridium sp.
+188	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Clostridiaceae bacterium
+189	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Ethanoligenens harbinense
+190	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ethanoligenens;Clostridiaceae bacterium
+191	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillospira;Oscillospira guilliermondii
+192	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillospira;Oscillospira guilliermondii
+193	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+194	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Mageeibacillus indolicus
+195	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Mageeibacillus indolicus
+196	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Saccharofermentans acetigenes
+197	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Saccharofermentans acetigenes
+198	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;Ruminococcus sp.
+199	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;bacterium ic1277
+200	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;rumen bacterium
+201	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium NLAE-zl-P762
+202	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Thermincola;Thermincola potens
+203	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Thermincola;Thermincola potens
+204	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Thermincola;Thermincola potens
+205	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Thermincola;Peptococcaceae bacterium
+206	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] cellulosi
+207	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;Clostridium sp.
+208	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Thermincola;Peptococcaceae bacterium
+209	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] cellulosi
+210	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;Clostridium sp.
+211	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Harryflintia;Provencibacterium massiliense
+212	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Harryflintia;Provencibacterium massiliense
+213	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 9;Prevotellaceae bacterium
+214	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus massiliensis
+215	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Porphyromonadaceae bacterium
+216	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides chinchillae
+217	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+218	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides chinchillae
+219	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus nealsonii
+220	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides faecis
+221	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+222	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+223	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides faecis
+224	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+225	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides gordonii
+226	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides gordonii
+227	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+228	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+229	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+230	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+231	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+232	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+233	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+234	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+235	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+236	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+237	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Bacteroides sp.
+238	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+239	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+240	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;bacterium enrichment
+241	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;iron-reducing enrichment
+242	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+243	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;bacterium enrichment
+244	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;bacterium enrichment
+245	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Parabacteroides chartae
+246	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Bacteroides sp.
+247	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;iron-reducing enrichment
+248	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+249	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Macellibacteroides sp.
+250	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides goldsteinii
+251	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Macellibacteroides fermentans
+252	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;bacterium mpn-isolate
+253	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Eubacterium sulci
+254	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Eubacterium sulci
+255	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Emergencia timonensis
+256	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Congobacterium massiliense
+257	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Eubacterium infirmum
+258	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;swine manure
+259	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Ihubacter massiliensis
+260	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;Anaerovorax odorimutans
+261	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;[Eubacterium] infirmum
+262	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;bacterium PM5-7
+263	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Eubacterium sp.
+264	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;[Clostridium] leptum
+265	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;[Clostridium] leptum
+266	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] eligens group;human gut
+267	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;Eisenbergiella tayi
+268	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+269	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;Eisenbergiella tayi
+270	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+271	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+272	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Eisenbergiella;Fusicatenibacter sp.
+273	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sp.
+274	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caecigallinarum
+275	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides mediterraneensis
+276	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sp.
+277	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia glycaniphila
+278	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia glycaniphila
+279	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pygmaiobacter;Pygmaiobacter massiliensis
+280	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerofilum;Anaerofilum pentosovorans
+281	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerofilum;Anaerofilum agile
+282	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;Hydrogenoanaerobacterium saccharovorans
+283	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerofilum;Elbe River
+284	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] methylpentosum
+285	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus rubiinfantis
+286	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] methylpentosum
+287	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] methylpentosum
+288	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+289	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;iron-reducing bacterium
+290	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;iron-reducing bacterium
+291	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+292	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+293	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+294	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+295	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+296	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium YE57
+297	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+298	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+299	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+300	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+301	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+302	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+303	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+304	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister sp.
+305	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister sp.
+306	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister propionicifaciens
+307	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Veillonellaceae bacterium
+308	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Bacteroides xylanisolvens
+309	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;bacterium WCE2003
+310	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+311	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+312	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+313	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+314	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Erysipelotrichaceae bacterium
+315	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+316	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;Solobacterium moorei
+317	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Bulleidia;Bulleidia extructa
+318	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Bulleidia;Bulleidia extructa
+319	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus;Faecalicoccus acidiformans
+320	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Anaerorhabdus] furcosa group;Anaerorhabdus furcosa
+321	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Anaerorhabdus] furcosa group;Anaerorhabdus furcosa
+322	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter;Turicibacter sp.
+323	Bacteria;Tenericutes;Mollicutes;Haloplasmatales;Haloplasmataceae;Haloplasma;bacterium YC-ZSS-LKJ188
+324	Bacteria;Tenericutes;Mollicutes;Haloplasmatales;Haloplasmataceae;Haloplasma;Haloplasma contractile
+325	Bacteria;Tenericutes;Mollicutes;Haloplasmatales;Haloplasmataceae;Haloplasma;bacterium YC-ZSS-LKJ118
+326	Bacteria;Tenericutes;Mollicutes;Haloplasmatales;Haloplasmataceae;Haloplasma;Haloplasma contractile
+327	Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Acidibacillus;Acidibacillus ferrooxidans
+328	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;Beduini massiliensis
+329	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-P560
+330	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;[Eubacterium] tortuosum
+331	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;[Eubacterium] dolichum
+332	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;[Eubacterium] dolichum
+333	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Clostridium] innocuum group;bacterium NLAE-zl-C335
+334	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;bacterium MS4
+335	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+336	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] papyrosolvens
+337	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+338	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] papyrosolvens
+339	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] termitidis
+340	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+341	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+342	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] cellobioparum
+343	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] papyrosolvens
+344	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] termitidis
+345	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;[Clostridium] cellobioparum
+346	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+347	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+348	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+349	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+350	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+351	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+352	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+353	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+354	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+355	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+356	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Robinsoniella;Robinsoniella sp.
+357	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Robinsoniella;Robinsoniella peoriensis
+358	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium enrichment
+359	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Angelakisella;Angelakisella massiliensis
+360	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Angelakisella;Angelakisella massiliensis
+361	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Clostridium sp.
+362	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;Gadus morhua
+363	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Clostridium sp.
+364	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Neglecta timonensis
+365	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Ruminiclostridium sp.
+366	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Ruminiclostridium sp.
+367	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+368	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+369	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+370	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+371	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+372	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus champanellensis
+373	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] methylpentosum
+374	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Massilioclostridium coli
+375	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Massilioclostridium coli
+376	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Massilioclostridium coli
+377	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Massilioclostridium coli
+378	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Massilioclostridium coli
+379	Bacteria;Firmicutes;Clostridia;Clostridiales;Gracilibacteraceae;Lutispora;Lutispora thermophila
+380	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Clostridium sp.
+381	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Clostridium sp.
+382	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp.
+383	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+384	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+385	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+386	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+387	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+388	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+389	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+390	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+391	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+392	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+393	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+394	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+395	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+396	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+397	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+398	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+399	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae
+400	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+401	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix rhusiopathiae
+402	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix inopinata
+403	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+404	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp.
+405	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus sp.
+406	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix tonsillarum
+407	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix tonsillarum
+408	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix larvae
+409	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelothrix larvae
+410	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridium sp.
+411	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium enrichment
+412	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+413	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+414	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 1;[Clostridium] aminophilum
+415	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 1;[Clostridium] aminophilum
+416	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Ruminococcus sp.
+417	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenella;Gadus morhua
+418	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Mucinivorans;Mucinivorans hirudinis
+419	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Mucinivorans;Mucinivorans hirudinis
+420	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella massiliensis
+421	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella massiliensis
+422	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella massiliensis
+423	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella massiliensis
+424	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenella;Christensenella minuta
+425	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenella;Christensenella minuta
+426	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenella;Christensenella minuta
+427	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella sp.
+428	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella timonensis
+429	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella timonensis
+430	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella timonensis
+431	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenella;Christensenella minuta
+432	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Christensenella timonensis
+433	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Catabacter hongkongensis
+434	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Catabacter;Catabacter hongkongensis
+435	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+436	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium XPD3002
+437	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium ND2012
+438	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+439	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;rumen bacterium
+440	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;wallaby gut
+441	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+442	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+443	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+444	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+445	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;rumen bacterium
+446	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+447	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+448	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Bacteroidetes bacterium
+449	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+450	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+451	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+452	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+453	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+454	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium YRD2003
+455	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+456	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+457	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+458	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium V9D2012
+459	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+460	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium DAZ1015
+461	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+462	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+463	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+464	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+465	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium XPD3003
+466	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+467	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+468	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+469	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;rumen bacterium
+470	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+471	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+472	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcaceae bacterium
+473	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;bacterium MD3002
+474	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+475	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+476	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+477	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+478	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+479	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+480	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+481	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+482	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+483	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+484	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+485	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+486	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+487	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+488	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+489	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+490	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+491	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+492	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+493	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+494	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+495	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio vulgaris
+496	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+497	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio termitidis
+498	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+499	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;[Clostridium] leptum
+500	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Anaerostipes hadrus
+501	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+502	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;Intestinimonas massiliensis
+503	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+504	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;Intestinimonas timonensis
+505	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Blattella germanica
+506	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;iron-reducing bacterium
+507	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+508	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+509	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+510	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Ruminococcaceae bacterium
+511	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+512	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;bacterium YRD2005
+513	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Ruminococcaceae bacterium
+514	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;Ruminococcaceae bacterium
+515	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+516	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+517	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fournierella;bacterium ic1337
+518	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+519	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides coprophilus
+520	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides coprophilus
+521	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides coprophilus
+522	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides coprophilus
+523	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides barnesiae
+524	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides barnesiae
+525	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides barnesiae
+526	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides barnesiae
+527	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides barnesiae
+528	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+529	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+530	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+531	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] oxidoreducens group;Eubacterium oxidoreducens
+532	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+533	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+534	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+535	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+536	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+537	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium bovis
+538	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;rumen bacterium
+539	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnobacterium;Lachnobacterium sp.
+540	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;bacterium NLAE-zl-H60
+541	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+542	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Clostridiales bacterium
+543	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+544	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+545	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+546	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+547	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+548	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Butyricicoccus pullicaecorum
+549	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;Clostridiales bacterium
+550	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+551	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+552	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+553	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+554	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+555	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Barnesiellaceae;Barnesiella;Barnesiella viscericola
+556	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridium sp.
+557	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium LC2020
+558	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+559	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+560	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+561	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Sedimentibacter;iron-reducing bacterium
+562	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+563	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;Clostridiales bacterium
+564	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;Clostridium sp.
+565	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus sp.
+566	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Dorea sp.
+567	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium fusiformis
+568	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Eubacterium ruminantium
+569	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+570	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Dorea sp.
+571	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridium fusiformis
+572	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Dorea sp.
+573	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+574	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+575	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+576	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+577	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+578	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+579	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+580	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 2;Coprococcus sp.
+581	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;mouse gut
+582	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] cellulosolvens group;[Eubacterium] cellulosolvens
+583	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Desulfotomaculum] guttoideum
+584	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+585	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+586	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Desulfotomaculum sp.
+587	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+588	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 12;[Clostridium] polysaccharolyticum
+589	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+590	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+591	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+592	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;Clostridia bacterium
+593	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+594	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+595	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+596	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+597	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Clostridium sp.
+598	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] celerecrescens
+599	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes butyraticus
+600	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;bacterium Te63R
+601	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Incertae Sedis;Hungatella hathewayi
+602	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;[Clostridium] saccharogumia
+603	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;[Clostridium] saccharogumia
+604	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium ic1391
+605	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-C597
+606	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-C210
+607	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-C346
+608	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-C352
+609	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-G266
+610	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-C514
+611	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-G235
+612	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;bacterium NLAE-zl-G241
+613	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Candidatus Stoquefichus;Candidatus Stoquefichus
+614	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Candidatus Stoquefichus;Candidatus Stoquefichus
+615	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Candidatus Stoquefichus;Candidatus Stoquefichus
+616	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;Massiliomicrobiota timonensis
+617	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+618	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;[Clostridium] leptum
+619	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus sp.
+620	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus sp.
+621	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+622	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+623	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+624	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+625	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+626	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+627	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+628	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella parvirubra
+629	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella sp.
+630	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Clostridiales bacterium
+631	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;[Clostridium] viride
+632	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;[Clostridium] viride
+633	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;[Clostridium] viride
+634	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;[Clostridium] viride
+635	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+636	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Intestinimonas;bacterium enrichment
+637	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales
+638	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales
+639	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;bacterium enrichment
+640	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;Parasutterella secunda
+641	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella sp.
+642	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;Parasutterella secunda
+643	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus manihotivorans
+644	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus manihotivorans
+645	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus porcinae
+646	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus manihotivorans
+647	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;Ruminococcaceae bacterium
+648	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;Ruminococcaceae bacterium
+649	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+650	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+651	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+652	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+653	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+654	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+655	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+656	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospira;Lachnospira multipara
+657	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Cellulosilyticum;bacterium PS7
+658	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+659	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Epulopiscium;bacterium enrichment
+660	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;Clostridiales bacterium
+661	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Cellulosilyticum;Cellulosilyticum ruminicola
+662	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Epulopiscium;Epulopiscium sp.
+663	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;bacterium MD2010
+664	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Epulopiscium;Niameybacter massiliensis
+665	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Epulopiscium;Niameybacter massiliensis
+666	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+667	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriales Incertae Sedis;Raoultibacter;Raoultibacter massiliensis
+668	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriales Incertae Sedis;Raoultibacter;Raoultibacter timonensis
+669	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella timonensis
+670	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Paraeggerthella;Gordonibacter sp.
+671	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gordonibacter;Gordonibacter sp.
+672	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gordonibacter;Gordonibacter sp.
+673	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gordonibacter;Eggerthella sp.
+674	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gordonibacter;Eggerthella sp.
+675	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gordonibacter;Eggerthella sp.
+676	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella lenta
+677	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella lenta
+678	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella lenta
+679	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella lenta
+680	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;Eggerthella lenta
+681	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Denitrobacterium;Denitrobacterium detoxificans
+682	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Denitrobacterium;Denitrobacterium detoxificans
+683	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriales Incertae Sedis;Phoenicibacter;Phoenicibacter massiliensis
+684	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Parvibacter;Parvibacter caecicola
+685	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Allisonella;Allisonella histaminiformans
+686	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Clostridiaceae bacterium
+687	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] propionicum
+688	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] propionicum
+689	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] propionicum
+690	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Clostridium sp.
+691	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] propionicum
+692	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Clostridium sp.
+693	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Clostridium sp.
+694	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] saphenum group;Eubacterium sp.
+695	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] saphenum group;Eubacterium saphenum
+696	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] saphenum group;Eubacterium saphenum
+697	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+698	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+699	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+700	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+701	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+702	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Mogibacterium;Mogibacterium timidum
+703	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+704	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;Candidatus Soleaferrea
+705	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;Hydrogenoanaerobacterium sp.
+706	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Caproiciproducens;bacterium Irt-JG1-64
+707	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;bacterium 13(2016)
+708	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus sp.
+709	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Herbinix;Clostridium sp.
+710	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Johnsonella;Lachnospiraceae bacterium
+711	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+712	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio sp.
+713	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Anaerocolumna cellulosilytica
+714	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+715	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+716	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+717	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+718	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerocolumna;Clostridium sp.
+719	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+720	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio sp.
+721	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 12;[Clostridium] herbivorans
+722	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+723	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+724	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio sp.
+725	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;bacterium AD2017
+726	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+727	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+728	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Breznakia;Breznakia pachnodae
+729	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus dextrinicus
+730	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus dextrinicus
+731	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+732	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+733	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas;Butyricimonas sp.
+734	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas;Butyricimonas synergistica
+735	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 1;wallaby gut
+736	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+737	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;Acetivibrio cellulolyticus
+738	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;[Clostridium] aldrichii
+739	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;iron-reducing bacterium
+740	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;Acetivibrio cellulolyticus
+741	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pseudobacteroides;Pseudobacteroides cellulosolvens
+742	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;human gut
+743	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+744	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+745	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+746	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+747	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerosporobacter;Lachnospiraceae bacterium
+748	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;human gut
+749	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister succinatiphilus
+750	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerobium;Anaerobium acetethylicum
+751	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella phocaeensis
+752	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella phocaeensis
+753	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella bouchesdurhonensis
+754	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella tanakaei
+755	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella tanakaei
+756	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella bouchesdurhonensis
+757	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella sp.
+758	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella sp.
+759	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella tanakaei
+760	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella sp.
+761	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella tanakaei
+762	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella massiliensis
+763	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella ihuae
+764	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;Collinsella ihuae
+765	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Enorma;Collinsella massiliensis
+766	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Coriobacterium;Coriobacterium glomerans
+767	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Coriobacterium;Coriobacterium glomerans
+768	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+769	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+770	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+771	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+772	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+773	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+774	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+775	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+776	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+777	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+778	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+779	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+780	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+781	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+782	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+783	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] algidixylanolyticum
+784	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;Blattella germanica
+785	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;Hydrogenoanaerobacterium saccharovorans
+786	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;Subdoligranulum variabile
+787	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 3;Clostridium sp.
+788	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Coprococcus 3;Clostridium sp.
+789	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Lactobacillales bacterium
+790	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-C388
+791	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillospira;Oscillospira guilliermondii
+792	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-C403
+793	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;Oscillibacter ruminantium
+794	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G479
+795	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G123
+796	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-C477
+797	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-G488
+798	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;Peptostreptococcaceae bacterium
+799	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] brachy group;Peptostreptococcaceae bacterium
+800	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] brachy group;Peptostreptococcaceae bacterium
+801	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;bacterium XBB3003
+802	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;bacterium TC8
+803	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;[Eubacterium] infirmum
+804	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;Clostridium sp.
+805	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Clostridium sp.
+806	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Clostridium sp.
+807	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Clostridium sp.
+808	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] straminisolvens
+809	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] straminisolvens
+810	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pseudobacteroides;Clostridium sp.
+811	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pseudobacteroides;Pseudobacteroides cellulosolvens
+812	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+813	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pseudobacteroides;Clostridium sp.
+814	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;Ruminiclostridium thermocellum
+815	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;bacterium XPD1004
+816	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;Culturomica massiliensis
+817	Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Family IV;Mahella;Mahella australiensis
+818	Bacteria;Firmicutes;Clostridia;Clostridiales;Caldicoprobacteraceae;Caldicoprobacter;anaerobic digester
+819	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella;Veillonella denticariosi
+820	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Veillonella;Veillonella criceti
+821	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Firmicutes bacterium
+822	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;bacterium enrichment
+823	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;bacterium enrichment
+824	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Anaerorhabdus] furcosa group;Erysipelotrichaceae bacterium
+825	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella sanguinus
+826	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella sanguinus
+827	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Sutterella sanguinus
+828	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ercella;Ercella succinigenes
+829	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+830	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Macellibacteroides;Porphyromonadaceae bacterium
+831	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+832	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Blattella germanica
+833	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+834	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+835	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+836	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes sp.
+837	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Eubacterium plexicaudatum
+838	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Eubacterium plexicaudatum
+839	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum;Parabacteroides sp.
+840	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum;Parabacteroides sp.
+841	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides sp.
+842	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Marasmitruncus massiliensis
+843	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Clostridiales bacterium
+844	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;Clostridiales bacterium
+845	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+846	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+847	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+848	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Kandleria;Kandleria vitulina
+849	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+850	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+851	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+852	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Kandleria;Kandleria vitulina
+853	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+854	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+855	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+856	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+857	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Sharpea;Lachnospiraceae bacterium
+858	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Sharpea;Sharpea azabuensis
+859	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+860	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Kandleria;Kandleria vitulina
+861	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenibacterium;Catenibacterium mitsuokai
+862	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Sharpea;Sharpea azabuensis
+863	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Sharpea;Lachnospiraceae bacterium
+864	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] hallii group;Clostridium sp.
+865	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera elsdenii
+866	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera elsdenii
+867	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera elsdenii
+868	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera elsdenii
+869	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;bacterium NLAE-zl-C201
+870	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;bacterium NLAE-zl-C359
+871	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera sp.
+872	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister micraerophilus
+873	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister micraerophilus
+874	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera genomosp.
+875	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera cerevisiae
+876	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera sp.
+877	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister micraerophilus
+878	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister pneumosintes
+879	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Dialister;Dialister pneumosintes
+880	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Megasphaera micronuciformis
+881	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Cuneatibacter;Cuneatibacter caecimuris
+882	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 12;[Clostridium] polysaccharolyticum
+883	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] cellulosi
+884	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;[Clostridium] cellulosi
+885	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas;Butyricimonas virosa
+886	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas;Butyricimonas virosa
+887	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium enrichment
+888	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;Eubacterium coprostanoligenes
+889	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;human gut
+890	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Peptoclostridium;[Clostridium] paradoxum
+891	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 3;iron-reducing bacterium
+892	Bacteria;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;Victivallis;Victivallis vadensis
+893	Bacteria;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;Victivallis;Victivallis vadensis
+894	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;rumen bacterium
+895	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;Oribacterium sp.
+896	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+897	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+898	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+899	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+900	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+901	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio sp.
+902	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+903	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+904	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;rumen bacterium
+905	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;bacterium NLAE-zl-C53
+906	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Veillonellaceae bacterium
+907	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa sphaeroides
+908	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa sphaeroides
+909	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa paucivorans
+910	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa sphaeroides
+911	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa paucivorans
+912	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Sporomusa;Sporomusa sphaeroides
+913	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 4;Geosporobacter;Geosporobacter ferrireducens
+914	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;Eubacterium sp.
+915	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 2;Clostridium sensu stricto;Clostridium aceticum
+916	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 2;Clostridium sensu stricto;Clostridium formicaceticum
+917	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 2;Anaerovirgula;Anaerovirgula multivorans
+918	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Leeiaceae;Leeia;Leeia oryzae
+919	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio sp.
+920	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+921	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio sp.
+922	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+923	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+924	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+925	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+926	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+927	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Sanguibacteroides;Gabonibacter massiliensis
+928	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Sanguibacteroides;Sanguibacteroides justesenii
+929	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Sanguibacteroides;Gabonibacter timonensis
+930	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] oxidoreducens group;Eubacterium oxidoreducens
+931	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides acidifaciens
+932	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sp.
+933	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;Porphyromonas sp.
+934	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;Porphyromonas gulae
+935	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 1;rumen bacterium
+936	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 1;rumen bacterium
+937	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;Porphyromonas catoniae
+938	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Sporobacter;Sporobacter termitidis
+939	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Sporobacter;Sporobacter termitidis
+940	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+941	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+942	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;Clostridium sp.
+943	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Paludibacteraceae;Paludibacter;bacterium enrichment
+944	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitispora;Desulfitispora elongata
+945	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter sp.
+946	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium;Desulfitobacterium sp.
+947	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium;Desulfitobacterium dehalogenans
+948	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+949	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+950	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+951	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium;Desulfitobacterium sp.
+952	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium;Desulfitobacterium sp.
+953	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+954	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+955	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Dehalobacter;Dehalobacter restrictus
+956	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria sp.
+957	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria sp.
+958	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria perflava
+959	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria flavescens
+960	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria mucosa
+961	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria perflava
+962	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria perflava
+963	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria subflava
+964	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria subflava
+965	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;Neisseria;Neisseria flavescens
+966	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio legallii
+967	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio fairfieldensis
+968	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+969	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+970	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio intestinalis
+971	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+972	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio simplex
+973	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio simplex
+974	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Desulfovibrio sp.
+975	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Candidatus Desulfovibrio
+976	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;termite gut
+977	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium enrichment
+978	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium NLAE-zl-c390
+979	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium NLAE-zl-C455
+980	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] xylanolyticum
+981	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salanitronis
+982	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salanitronis
+983	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salanitronis
+984	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salanitronis
+985	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides salanitronis
+986	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia schinkii
+987	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia schinkii
+988	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia schinkii
+989	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia schinkii
+990	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp.
+991	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caecimuris
+992	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caecimuris
+993	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caecimuris
+994	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Ruminococcus flavefaciens
+995	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Moryella;bacterium YAD2002
+996	Bacteria;Firmicutes;Clostridia;Clostridiales;Caldicoprobacteraceae;Caldicoprobacter;anaerobic digester
+997	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Tepidibacter;Clostridium sp.
+998	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Tepidibacter;Tepidibacter mesophilus
+999	Bacteria;Tenericutes;Mollicutes;Izimaplasmatales;Izimaplasmataceae;Izimaplasma;Candidatus Izimaplasma
+1000	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma axanthum
+1001	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma sp.
+1002	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma parvum
+1003	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Tenericutes bacterium
+1004	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Tenericutes bacterium
+1005	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;microbial mat
+1006	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma axanthum
+1007	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Phytoplasma sp.
+1008	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;bacterium enrichment
+1009	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Artemisia witches'-broom
+1010	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Catharanthus phyllody
+1011	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Brinjal little
+1012	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Onion yellows
+1013	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Potato witches'-broom
+1014	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1015	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Aster yellows
+1016	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Phytoplasma sp.
+1017	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Onion yellows
+1018	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;'Populus nigra'
+1019	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Aster yellows
+1020	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Aster yellows
+1021	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Morinda yellows
+1022	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Peach yellows
+1023	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;'Phyllanthus niruri'
+1024	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Sugarcane grassy
+1025	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Jujube witches'-broom
+1026	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;North American
+1027	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1028	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;'Solanum tuberosum'
+1029	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Aster yellows
+1030	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1031	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Persian violet
+1032	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Jujube witches'-broom
+1033	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Alder yellows
+1034	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Alder yellows
+1035	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Sr Isidro
+1036	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;'Solanum tuberosum'
+1037	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Jujube witches'-broom
+1038	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1039	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Rubus stunt
+1040	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Aster yellows
+1041	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1042	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1043	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Chandigarh periwinkle
+1044	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1045	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Phytoplasma sp.
+1046	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1047	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;iron-reducing bacterium
+1048	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium enrichment
+1049	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Clostridium sp.
+1050	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] neopropionicum
+1051	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] propionicum
+1052	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] saccharolyticum
+1053	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Massiliprevotella massiliensis
+1054	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella oulorum
+1055	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella oulorum
+1056	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;Prevotella sp.
+1057	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma palmae
+1058	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma palmae
+1059	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;Eubacterium xylanophilum
+1060	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;Eubacterium xylanophilum
+1061	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;Eubacterium xylanophilum
+1062	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;Eubacterium xylanophilum
+1063	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;Eubacterium xylanophilum
+1064	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;bacterium NB2016
+1065	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Papillibacter;Papillibacter cinnamivorans
+1066	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+1067	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;CAG-873;Bacteroidales bacterium
+1068	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zhouia;Zhouia amylolytica
+1069	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zhouia;Zhouia sp.
+1070	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zhouia;Zhouia amylolytica
+1071	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter thermophilus
+1072	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Wandonia;Wandonia haliotis
+1073	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter thermophilus
+1074	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Dysgonomonas;Dysgonomonas sp.
+1075	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Mangrovimonas;Mangrovimonas yunxiaonensis
+1076	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Mangrovimonas;Mangrovimonas yunxiaonensis
+1077	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Mangrovimonas;Mangrovimonas yunxiaonensis
+1078	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Cellulophaga;Cellulophaga tyrosinoxydans
+1079	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia russellii
+1080	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia uliginosa
+1081	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia galactanivorans
+1082	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia galactanivorans
+1083	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp.
+1084	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter sp.
+1085	Bacteria;Bacteroidetes;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;Marinoscillum luteum
+1086	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Tenacibaculum;Tenacibaculum sp.
+1087	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Croceitalea;Croceitalea sp.
+1088	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Tenacibaculum;Tenacibaculum geojense
+1089	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter sp.
+1090	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa algae
+1091	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;Leeuwenhoekiella blandensis
+1092	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia uliginosa
+1093	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa agariphila
+1094	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa agariphila
+1095	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa agariphila
+1096	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flagellimonas;Flagellimonas sp.
+1097	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prolixibacteraceae;Mariniphaga;Mariniphaga anaerophila
+1098	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flagellimonas;Flagellimonas sp.
+1099	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter sp.
+1100	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Coenonia;Coenonia anatina
+1101	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter sp.
+1102	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Maribacter;Maribacter sp.
+1103	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Marinifilum;bacterium endosymbiont
+1104	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Imtechella;Imtechella halotolerans
+1105	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zobellia;Zobellia uliginosa
+1106	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp.
+1107	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flagellimonas;Flagellimonas eckloniae
+1108	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp.
+1109	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;Leeuwenhoekiella palythoae
+1110	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium haoranii
+1111	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Wandonia;Wandonia haliotis
+1112	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Sungkyunkwania;Flavobacterium sp.
+1113	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;Magnetospira sp.
+1114	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;Magnetospira sp.
+1115	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;marine magnetic
+1116	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Blattella germanica
+1117	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Dielma;Traorella massiliensis
+1118	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;Faecalitalea cylindroides
+1119	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;Faecalitalea cylindroides
+1120	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;Faecalitalea cylindroides
+1121	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenisphaera;Catenisphaera adipataccumulans
+1122	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Merdibacter;Merdibacter massiliensis
+1123	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;Faecalitalea cylindroides
+1124	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;Faecalitalea cylindroides
+1125	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenisphaera;wallaby gut
+1126	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Merdibacter;Clostridiales bacterium
+1127	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;Erysipelotrichaceae bacterium
+1128	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus;Faecalicoccus pleomorphus
+1129	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus;Faecalicoccus pleomorphus
+1130	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus;Faecalicoccus pleomorphus
+1131	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Fictibacillus;Bacillus sp.
+1132	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Catenisphaera;Chlamydia trachomatis
+1133	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Lactobacillus sp.
+1134	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Veillonellaceae;Megasphaera;Veillonellaceae bacterium
+1135	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Moryella;human gut
+1136	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1137	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1138	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1139	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Porphyromonas bennonis
+1140	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1141	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides massiliensis
+1142	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides massiliensis
+1143	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1144	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+1145	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;Acetivibrio cellulolyticus
+1146	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetivibrio;Acetivibrio cellulolyticus
+1147	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;bacterium NLAE-zl-C476
+1148	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Frankia;Frankia sp.
+1149	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp.
+1150	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia;Nocardia sp.
+1151	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Tenggerimyces;Tenggerimyces mesophilus
+1152	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Intrasporangiaceae;Oryzihumus;Ornithinicoccus sp.
+1153	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;Nocardioides sp.
+1154	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Frankia;Frankia sp.
+1155	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella spongiae
+1156	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella sp.
+1157	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella sp.
+1158	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella sp.
+1159	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella laminariae
+1160	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella sp.
+1161	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;Magnetospira sp.
+1162	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hydrogenotrophica
+1163	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hydrogenotrophica
+1164	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hydrogenotrophica
+1165	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hydrogenotrophica
+1166	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hydrogenotrophica
+1167	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Lachnospiraceae bacterium
+1168	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Buckland Valley
+1169	Bacteria;Tenericutes;Mollicutes;Mollicutes Incertae Sedis;Unknown Family;Candidatus Phytoplasma;Candidatus Phytoplasma
+1170	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Kurthia;Kurthia gibsonii
+1171	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Kurthia;Kurthia sp.
+1172	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Kurthia;Kurthia sp.
+1173	Bacteria;Firmicutes;Bacilli;Bacillales;Planococcaceae;Kurthia;Kurthia gibsonii
+1174	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1175	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1176	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1177	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1178	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1179	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1180	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1181	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1182	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1183	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1184	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1185	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1186	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1187	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1188	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1189	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 10;Lachnoclostridium phytofermentans
+1190	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma brassicae
+1191	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;Acholeplasma brassicae
+1192	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Pandoraea;Pandoraea thiooxydans
+1193	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Ferrovaceae;Ferrovum;Ferrovum sp.
+1194	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Ferrovaceae;Ferrovum;mine drainage
+1195	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;bacterium str.
+1196	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+1197	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;Clostridiales bacterium
+1198	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;[Clostridium] innocuum group;bacterium NLAE-zl-G287
+1199	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus timonensis
+1200	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp.
+1201	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp.
+1202	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella fusca
+1203	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp.
+1204	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella fusca
+1205	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella histicola
+1206	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+1207	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+1208	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;rumen bacterium
+1209	Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Finniella;Candidatus Finniella
+1210	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces albogriseolus
+1211	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Inhella;beta proteobacterium
+1212	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp.
+1213	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;Magnetospira sp.
+1214	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodovibrionales;Kiloniellaceae;Kiloniella;Kiloniella litopenaei
+1215	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;wallaby gut
+1216	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Johnsonella;Lachnospiraceae bacterium
+1217	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalicoccus;Clostridiales bacterium
+1218	Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella;Granulicatella
+1219	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 2;Clostridium sensu stricto;bacterium enrichment
+1220	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium AC2043
+1221	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;iron-reducing bacterium
+1222	Bacteria;Firmicutes;Clostridia;Clostridiales;Gracilibacteraceae;Gracilibacter;Gracilibacter sp.
+1223	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;[Clostridium] neopropionicum
+1224	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;bacterium NLAE-zl-C462
+1225	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;Gadus morhua
+1226	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;bacterium NLAE-zl-C453
+1227	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;[Clostridium] piliforme
+1228	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;wallaby gut
+1229	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1230	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1231	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1232	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1233	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1234	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1235	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1236	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;Marvinbryantia formatexigens
+1237	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;[Clostridium] amygdalinum
+1238	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium 5;Bacteroides xylanolyticus
+1239	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Roseimicrobium;bacterium RS30A
+1240	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium NLAE-zl-C71
+1241	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;bacterium NLAE-zl-C400
+1242	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;Brachyspira sp.
+1243	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae Ga6A1 group;rumen bacterium
+1244	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Alloprevotella;Prevotellamassilia timonensis
+1245	Bacteria;Verrucomicrobia;Verrucomicrobiae;Chthoniobacterales;Terrimicrobiaceae;Terrimicrobium;Terrimicrobium sacchariphilum
+1246	Bacteria;Verrucomicrobia;Verrucomicrobiae;Chthoniobacterales;Terrimicrobiaceae;Terrimicrobium;Spartobacteria bacterium
+1247	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Roseimicrobium;Verrucomicrobiaceae bacterium
+1248	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella sp.
+1249	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella baroniae
+1250	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella baroniae
+1251	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella buccae
+1252	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella buccae
+1253	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella baroniae
+1254	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella baroniae
+1255	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella baroniae
+1256	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 7;Prevotella dentasini
+1257	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Enorma;Enorma phocaeensis
+1258	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Coriobacterium;Coriobacterium glomerans
+1259	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Enorma;Enorma massiliensis
+1260	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;rumen bacterium
+1261	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Saccharofermentans;bacterium YRB3002
+1262	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Hydrogenoanaerobacterium;Blattella germanica
+1263	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetanaerobacterium;Acetanaerobacterium elongatum
+1264	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Acetanaerobacterium;Acetanaerobacterium elongatum
+1265	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Dysgonomonadaceae;Dysgonomonas;Dysgonomonas gadei
+1266	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Blattella germanica
+1267	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium enrichment
+1268	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1269	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1270	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1271	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1272	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1273	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1274	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1275	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1276	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus fermentans
+1277	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;Clostridiales bacterium
+1278	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Sutterella;Duodenibacillus massiliensis
+1279	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Acetatifactor;Clostridiales bacterium
+1280	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;bacterium NLAE-zl-C312
+1281	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Shuttleworthia;Clostridium sp.
+1282	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Shuttleworthia;Clostridium sp.
+1283	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Shuttleworthia;Clostridium sp.
+1284	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Candidatus Soleaferrea;bacterium enrichment
+1285	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Mobilisporobacter;Mobilisporobacter senegalensis
+1286	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;bacterium PFB2-27
+1287	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Lachnospiraceae bacterium
+1288	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Lachnospiraceae bacterium
+1289	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Eubacterium ruminantium
+1290	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Eubacterium ruminantium
+1291	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;Lachnospiraceae bacterium
+1292	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus sp.
+1293	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus sp.
+1294	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus sp.
+1295	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus sp.
+1296	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus-like sp.
+1297	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus sp.
+1298	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus simiae
+1299	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;Peptococcus simiae
+1300	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;bacterium NLAE-zl-G96
+1301	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Johnsonella;Lachnospiraceae bacterium
+1302	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio sp.
+1303	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;Clostridiales bacterium
+1304	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;bacterium YE55
+1305	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Butyrivibrio fibrisolvens
+1306	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Pseudobutyrivibrio;Pseudobutyrivibrio ruminis
+1307	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hansenii
+1308	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia hansenii
+1309	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp.
